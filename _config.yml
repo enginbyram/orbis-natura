@@ -18,6 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+# favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+permalink: /:slug.html
+author: Engin Bayram # name of site's author
 title: Orbis Natura
 description: >- # this means to ignore newlines until "baseurl:"
   Orbis Natura, Orbis evreni içerisinde geçen kısa hikayeler ve evren hakkındaki bilgileri içerir.
@@ -27,9 +31,15 @@ baseurl: /orbis-natura/      # place folder name if the site is served in a subf
 github_username:  enginbyram
 
 # Build settings
-theme: minima
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
 
 # Exclude from processing.
 # The following items will not be processed, by default.
