@@ -1,4 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;700&display=swap');
+
+$text: rgb(198,208,245);
+$subtext1: rgb(179,188,223);
+$subtext0: rgb(161,168,201);
+$overlay2: rgb(142,149,179);
+$overlay1: rgb(123,129,157);
+$overlay0: rgb(105,109,134);
+$surface2: rgb(86,89,112);
+$surface1: rgb(67,70,90);
+$surface0: rgb(49,50,68);
+$base: rgb(28,28,42);
+$side: rgb(24,24,37);
+$exterior: rgb(17,17,27);
+$textfont: "Inter";
+$headerfont: "EB Garamond";
+$lily: rgb(235,188,186);
+$red: rgb(255,98,107);
+$rose: rgb(243,137,143);
+$violet: rgb(196,167,231);
+$blue: rgb(147,183,245);
+$sea: rgb(104,188,204);
+$cyan: rgb(137,199,223);
+$turquoise: rgb(128,216,220);
+$green: rgb(56,198,141);
+$yellow: rgb(249,226,175);
+$lemon: rgb(246,193,119);
+$orange: rgb(247,157,124);
+
+$highlight-text: #f79d7c33;
 
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
@@ -21,15 +50,17 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body {
+  background-color: $base;
+}
 
 html { height: 100%; }
 
 body {
-  color: black;
-  font-family: "EB Garamond";
+  color: $text;
+  font-family: $textfont;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.5;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
@@ -37,13 +68,34 @@ body {
 
 .post-meta { text-align: right; }
 
-h2, h3, h4, h5, h6 { margin-top: 3rem; }
+h1 {
+  font-family: $headerfont;
+  color: $rose;
+  border-bottom: 1px solid $rose;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6 {
+  margin-top: 3rem;
+  font-family: $headerfont;
+  color: $cyan;
+}
 
 hr { margin: 2rem 0; }
 
 p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; }
+
+a {
+  color: $red;
+  text-decoration: none;
+}
+
+b, strong {
+  color: $orange;
+} 
 
 *:target { background: yellow; }
 
@@ -93,4 +145,32 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+
+// -------------------------------------------- //
+
+// SIDE PANEL HERE
+.side-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 338px;
+  background-color: $side;
+  padding: 20px;
+  box-sizing: border-box;
+  h2 {
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 1px solid $cyan;
+  }
+  h3 {
+    color: $lily;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 1px solid $lily;
+  }
+  ul {
+    list-style: none;
+  }
 }

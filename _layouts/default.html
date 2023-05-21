@@ -2,6 +2,19 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    <nav class="side-panel">
+          <!-- Side panel content goes here -->
+      <h2>Orbis Natura</h2>
+      <h3>Kategoriler</h3>
+      <ul>
+        <li><a href="">Tarih</a></li>
+        <li><a href="">Kültür, dil ve toplum</a></li>
+        <li><a href="">Etnik gruplar</a></li>
+        <li><a href="">İnanç</a></li>
+        <li><a href="">Büyü</a></li>
+      </ul>
+      {%-include menu_item.html collection=site.data.menu.entries-%}
+    </nav>
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
