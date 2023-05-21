@@ -64,14 +64,25 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+  display: flex;
+  flex-direction: column;
+}
+
+.holy-grail__main {
+  /* Take the remaining height */
+  flex-grow: 1;
+
+  /* Layout the left sidebar, main content and right sidebar */
+  display: flex;
+  flex-direction: row;
 }
 
 .post-meta { text-align: right; }
 
 h1 {
   font-family: $headerfont;
-  color: $rose;
-  border-bottom: 1px solid $rose;
+  color: $text;
+  border-bottom: 1px solid rgba($text, .32);
   text-align: center;
   text-transform: uppercase;
 }
@@ -98,6 +109,11 @@ b, strong {
 } 
 
 *:target { background: yellow; }
+
+.page-content {
+  /* Take the remaining width */
+  flex-grow: 1;
+}
 
 .w {
   max-width: 640px;
@@ -151,11 +167,10 @@ img {
 
 // SIDE PANEL HERE
 .side-panel {
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
-  height: 100%;
-  width: 338px;
+  width: 25%;
   background-color: $side;
   padding: 20px;
   box-sizing: border-box;
@@ -172,5 +187,88 @@ img {
   }
   ul {
     list-style: none;
+  }
+}
+
+.main-cats {
+  padding: 32px;
+
+}
+
+// BUTTONS //
+
+.scaff-container {
+  cursor: pointer;
+  padding: 1px 12px;
+}
+.scaff-content.collapsed {
+  max-height: 500px;
+}
+.scaff-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.375s ease, opacity 0.3s ease;
+  font-size: 12px;
+}
+
+// FOOTER //
+
+.footer-container {
+  background-color: $side;
+  flex:1;
+  ul {
+    padding-inline-start: 0;
+    display: flex;
+    justify-content: center;
+    li {
+      padding: 10px;
+      display: flex;
+      list-style: none;
+    }
+  }
+  .footer-header {
+    padding: 15px;
+    h1 {
+      font-size: 1.25rem;
+      border: none;
+      color: $overlay0;
+    }
+    p {
+      font-size: .55rem;
+      color: rgba($overlay0, .45);
+      text-align: center;
+    }
+  }
+}
+
+
+// CONTENTBOX - HOME //
+
+.contentbox__main {
+  display: flex;
+  flex-wrap: wrap;
+  .contentbox-container {
+    min-width: 200px;
+    min-height: 310px;
+    flex: 1;
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgba($overlay0, .45);
+  }
+  .contentbox-cc {
+    flex: 1;
+    padding: 10px 20px;
+    p {
+      font-size: 12px;
+      text-align: justify;
+    }
+    .artbox {
+      .fa-solid {
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+      }
+    }
   }
 }

@@ -2,24 +2,42 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
-    <nav class="side-panel">
-          <!-- Side panel content goes here -->
-      <h2>Orbis Natura</h2>
-      <h3>Kategoriler</h3>
+    <div class="holy-grail__main">
+      <nav class="side-panel">
+        <!-- Side panel content goes here -->
+        <ul class="main-cats">
+          <h2>Orbis Natura</h2>
+          <li><a href="">Tarih</a></li>
+          <li><a href="">Kültür, dil ve toplum</a></li>
+          <li><a href="">Etnik gruplar</a></li>
+          <li><a href="">İnanç</a></li>
+          <li><a href="">Büyü</a></li>
+        </ul>
+        <div class="scaff-container">
+          <h3 class="scaff-button">Tüm Girdiler</h3>
+          <div class="scaff-content">
+            {%-include menu_item.html collection=site.data.menu.entries-%}
+          </div>
+        </div>
+      </nav>
+      <main class="page-content" aria-label="Content">
+        <div class="w">
+          {{ content }}
+        </div>
+      </main>
+    </div>
+    <!-- FOOTER HERE -->
+    <footer class="footer-container">
       <ul>
-        <li><a href="">Tarih</a></li>
-        <li><a href="">Kültür, dil ve toplum</a></li>
-        <li><a href="">Etnik gruplar</a></li>
-        <li><a href="">İnanç</a></li>
-        <li><a href="">Büyü</a></li>
+        <li><a href="https://www.instagram.com/enginbyram/"><i class="fa-brands fa-instagram fa-xl" style="color: rgb(49,50,68);"></i></a></li>
+        <li><a href="https://www.github.com/enginbyram/"><i class="fa-brands fa-github fa-xl" style="color: #313244;"></i></a></li>
       </ul>
-      {%-include menu_item.html collection=site.data.menu.entries-%}
-    </nav>
-    <main class="page-content" aria-label="Content">
-      <div class="w">
-        {{ content }}
+      <div class="footer-header">
+        <h1>Orbis Natura</h1>
+        <p>Orbis evreni içerisinde geçen kısa hikayeler ve evren hakkındaki bilgileri içerir.</p>
+        <p>Bütün hakları saklıdır.</p>
       </div>
-    </main>
+    </footer>
 
     {%-if site.goat_counter and jekyll.environment == "production"-%}
       {%-include goat_counter.html-%}
@@ -30,5 +48,17 @@
         <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
       {% endfor %}
     {% endif %}
+
+    <!-- SCAFFOLD SCRIPT FOR SIDE PANEL -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var button = document.querySelector(".scaff-button");
+        var content = document.querySelector(".scaff-content");
+
+        button.addEventListener("click", function() {
+          content.classList.toggle("collapsed");
+        });
+      });
+    </script>
   </body>
 </html>
