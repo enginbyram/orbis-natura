@@ -20,10 +20,10 @@
 
 title: Orbis Natura
 description: >- # this means to ignore newlines until "baseurl:"
-  Orbis Natura, Orbis evreninde geçen kısa hikayeler ve evren hakkındaki bilgileri barındırr.
-domain: enginbyram.github.io
-baseurl: /orbis-natura
-url: https://enginbyram.github.io
+  Orbis Natura, Orbis evreni içerisinde geçen kısa hikayeler ve evren hakkındaki bilgileri içerir.
+domain: enginbyram.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://enginbyram.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /orbis-natura/      # place folder name if the site is served in a subfolder
 github_username:  enginbyram
 
 # Build settings
