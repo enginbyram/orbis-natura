@@ -189,6 +189,18 @@ img {
 
 .main-cats {
   padding: 32px;
+  h1 a {
+    color: $text;
+    transition: color ease-in-out .375s;
+    transition: text-shadow ease-in-out .375s;
+  }
+
+  h1 a:hover {
+    color: $cyan;
+  }
+  h1:hover {
+    text-shadow: 0px 0px 15px rgba($text, .45);
+  }
 
   .side-button {
     cursor: pointer;
@@ -241,6 +253,7 @@ img {
 
 .footer-container {
   background-color: $side;
+  border-top: 1px solid rgba($exterior, .65);
   flex:1;
   ul {
     padding-inline-start: 0;

@@ -2,66 +2,25 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
+
+    <!-- Container that holds everything -->
     <div class="holy-grail__main">
-      <nav class="side-panel">
-        <!-- Side panel content goes here -->
-        <ul class="main-cats">
-          <h1>Orbis Natura</h1>
 
-          <a href="{{ site.baseurl }}wiki/tarih.html">
-            <li class="side-button">
-              <i class="fa-solid fa-dragon fa-lg" style="color: #ff626b;"></i>
-              <p>Tarih</p>
-            </li>
-          </a>
+    <!-- Side panel content goes here -->
+      {%- include l_sidepanel.html -%}
 
-          <a href="{{ site.baseurl }}wiki/kultur-ve-toplum.html">
-            <li class="side-button">
-              <i class="fa-solid fa-scroll fa-lg" style="color: rgb(249,226,175);"></i>
-              <p>Kültür ve toplum</p>
-            </li>
-          </a>
-
-          <a href="{{ site.baseurl }}wiki/buyu.html">
-            <li class="side-button">
-              <i class="fa-solid fa-hat-wizard fa-lg" style="color: #c4a7e7;"></i>
-              <p>Büyü</p>
-            </li>
-          </a>
-
-          <a href="{{ site.baseurl }}wiki/inanc.html">
-            <li class="side-button">
-              <i class="fa-solid fa-eye fa-lg" style="color: #38c68d;"></i>
-              <p>İnanç</p>
-            </li>
-          </a>
-        </ul>
-        <div class="scaff-container">
-          <h3 class="scaff-button">Tüm Girdiler</h3>
-          <div class="scaff-content">
-            {%-include menu_item.html collection=site.data.menu.entries-%}
-          </div>
-        </div>
-      </nav>
+      <!-- Page main content here -->
       <main class="page-content" aria-label="Content">
         <div class="w">
           {{ content }}
         </div>
       </main>
     </div>
-    <!-- FOOTER HERE -->
-    <footer class="footer-container">
-      <ul>
-        <li><a href="https://www.instagram.com/enginbyram/"><i class="fa-brands fa-instagram fa-xl" style="color: rgb(49,50,68);"></i></a></li>
-        <li><a href="https://www.github.com/enginbyram/"><i class="fa-brands fa-github fa-xl" style="color: #313244;"></i></a></li>
-      </ul>
-      <div class="footer-header">
-        <h1>Orbis Natura</h1>
-        <p>Orbis evreni içerisinde geçen kısa hikayeler ve evren hakkındaki bilgileri içerir.</p>
-        <p>Bütün hakları saklıdır.</p>
-      </div>
-    </footer>
 
+    <!-- FOOTER HERE -->
+    {%- include footer.html -%}
+
+    <!-- Some site scripts here, do not touch -->
     {%-if site.goat_counter and jekyll.environment == "production"-%}
       {%-include goat_counter.html-%}
     {%-endif-%}
@@ -72,7 +31,8 @@
       {% endfor %}
     {% endif %}
 
-    <!-- SCAFFOLD SCRIPT FOR SIDE PANEL -->
+    <!-- Side panel scaffold script is here, do not touch -->
+    <!-- External scripting is not working for some reason -->
     <script>
       document.addEventListener("DOMContentLoaded", function() {
         var button = document.querySelector(".scaff-button");

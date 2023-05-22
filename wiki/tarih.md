@@ -45,7 +45,7 @@ Göçmenlerin bir zamanlar yabancı olan inançları, ırşilerin manevi gelenek
 Nihai şafağın ardından, volkanik patlamalar sona erdiğinde ve karanlık gökyüzü açıldığında, göçmenler ve ırşiler; kaderlerinin kesişimiyle birlikte sonsuza dek değişmiş şekilde tek vücut olarak durdular. Irşiler bu göçmenlere [Cüce]({{site.baseurl}}/wiki/cuce.html), ismini vermişlerdir.
 
 ### İstila Devri
-İlk Göç'ün ardından, Orbis kıtasında İstila Devri olarak bilinen yeni bir dönem başladı. Ancak bu dönem, Orbis sakinleri için yeni ve zorlu bir mücadelenin başlangıcı oldu. İstila Devri ise bin yıl sürmüş olup, aynı zamanda eski kayıtlarda Felaket Yılları olarak da geçer.
+İlk Göç'ün ardından, Orbis kıtasında İstila Devri olarak bilinen yeni bir dönem başladı. Ancak bu dönem, Orbis sakinleri için yeni ve zorlu bir mücadelenin başlangıcı oldu. İstila Devri ise _bin yıl_ sürmüş olup, aynı zamanda eski kayıtlarda Felaket Yılları olarak da geçer.
 
 Kuzey kıtasında volkanik patlamaların sonucunda, bu felaketler [ejderhaların]({{site.baseurl}}/wiki/ejderha.html) ortaya çıkmasını tetikledi. Ateşin derinliklerinden doğan bu görkemli ve korkunç yaratıklar, zamanla güçlendi ve sayıları arttı. Sonunda ejderhalar Orbis kıtasına ilerleyerek bin yıl sürecek bir çatışma ve kargaşa dönemini başlattı.
 
@@ -61,7 +61,7 @@ Ejder Çağı sırasında, dağlara sığınan Cücelerin hayatta kalan üyeleri
 Doğa enerjisini manipüle etme yetenekleri zamanla kendi istekleri doğrultusunda başk bir yöne doğru kayıp yer altında işe yarayacak tekniklerde kullanmaya başlamışlardır. Bu şekilde olağanüstü zanaatkarlıkları ve dünyayla derin bağları olan, dayanıklı ve becerikli birer insanlar haline gelmişlerdir. Madencilik, metal işçiliği ve taş işçiliği becerilerini geliştirmiş, dağların içinde Karaderinliğin tehlikelerine karşı konulması için muazzam kaleler inşa etmeye başladılar ve değerli kaynaklar aramak için daha da derinlere inmeye başladılar. Zamanla büyülü eserlerin yaratılmasına birer usta zanaatkâr ve ünlü uzmanlar oldular.
 
 ### İkinci Göç
-İkinci Göç, toplamında 523 yıl sürmüş bir dönemdir. Bu dönemde [Arysus]({{site.baseurl}}/wiki/arysus.html) isimli kabile Orbis kıtasına gelerek yeni bir dönem başlatmış ve tarihin belki de en büyük değişimini gerçekleştirmişlerdir.
+İkinci Göç, toplamında _523 yıl_ sürmüş bir dönemdir. Bu dönemde [Arysus]({{site.baseurl}}/wiki/arysus.html) isimli kabile Orbis kıtasına gelerek yeni bir dönem başlatmış ve tarihin belki de en büyük değişimini gerçekleştirmişlerdir.
 
 Anavatanları Erys olan, uzak doğudaki bir kıtada yaşayan Arysus halkı büyüyü çeşitli biçimlerde kullanma yeteneğine sahip, gizli sanatlarla derin bir bağı olan bir medeniyettiler. Zaman içinde anavatanları, kendilerinden daha güçlü düşmanlarla ve yaşam tarzlarını tehdit edecek kadar azalan kaynaklar sebebiyle çok sayıda zorlukla karşı karşıya kaldı.
 
