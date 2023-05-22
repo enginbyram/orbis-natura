@@ -1,6 +1,6 @@
 ---
 title: Cüce
-layut: default
+layout: page
 ---
 Cüceler kısa boylu ve iri yapılı insanlardır. Genellikle dağlık bölgelerde veya dağların içerisinde kurdukları büyük şehirlerde yaşarlar ve madencilik, zanaat ve savaşçılık alanlarında yeteneklidirler.
 

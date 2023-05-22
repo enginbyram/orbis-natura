@@ -53,6 +53,7 @@ body[a="dark"] { @include dark-appearance; }
 html, body {
   background-color: $base;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 html { height: 100%; }
@@ -171,6 +172,7 @@ img {
   background-color: $side;
   padding: 20px;
   box-sizing: border-box;
+  max-width: 400px;
   h2 {
     text-align: center;
     text-transform: uppercase;
@@ -369,4 +371,62 @@ img {
       text-indent: 4.75%;
     }
   }  
+}
+
+
+// Fixed side container (ToC)//
+
+.caret-cont {
+  z-index: 1; /* Stay on top */
+  position: relative;
+  top:30px;
+  left:15px;
+  margin: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border: 1px solid rgba($overlay0, .45);
+  padding: 7px 14px;
+  transition: background-color 0.375s ease, opacity 0.3s ease;
+  transition: border-color 0.375s ease;
+  user-select: none;
+  cursor: pointer;
+  height: 45px;
+  width: max-content;
+  i {
+    transform: rotate(180deg);
+  }
+
+  #toc-header, p {
+    font-family: $textfont;
+    font-size: 13px;
+    color: $text;
+    text-indent: 0;
+    margin: 0 0 0 .5rem;
+  }
+}
+
+.caret-cont:hover {
+  background-color: rgba($blue, 0.12);
+  border-color: rgba($text, 1);
+}
+
+.toc-panel__container {
+  z-index: 2; /* Stay on top */
+  transition: transform 0.5s ease, width .3s linear .1s;
+  float:right;
+  width: 20%;
+  height: max-content;
+  min-height: 500px;
+  max-width: 350px;
+  max-height: 500px;
+  margin: 35px 0;
+  background-color: $side;
+  opacity: 1;
+
+  &.collapsed {
+    transform: translateX(100%);
+    width: 0;
+
+  }
 }
