@@ -3,9 +3,9 @@ title: Tarih
 layout: post
 categories: tarih
 ---
-Bu fantastik diyarın geniş dokumasında; unutulmuş çağların yankıları, zamansız efsanelerin fısıltılarıyla iç içe geçen sihir, çatışma ve sakinlerinin yenilmez ruhunun dokunduğu bir tarih ortaya çıkar. Kozmosu şekillendiren ilkel güçlerden tutun da büyük medeniyetlerin yükselişine ve çöküşüne kadar bütün bu ansiklopedi eski çağların derinliklerine inerek hayret verici dünyanın özünü şekillendiren zaferleri ve trajedileri gün yüzüne çıkarır.
+_Bu fantastik diyarın geniş dokumasında; unutulmuş çağların yankıları, zamansız efsanelerin fısıltılarıyla iç içe geçen sihir, çatışma ve sakinlerinin yenilmez ruhunun dokunduğu bir tarih ortaya çıkar. Kozmosu şekillendiren ilkel güçlerden tutun da büyük medeniyetlerin yükselişine ve çöküşüne kadar bütün bu ansiklopedi eski çağların derinliklerine inerek hayret verici dünyanın özünü şekillendiren zaferleri ve trajedileri gün yüzüne çıkarır._
 
-### İçindekiler
+> ### İçindekiler
 - [İlk Çağ](#i̇lk-çağ)
     - [Uzun Akşam Olayı](#uzun-akşam-olayı)
     - [İlk Göç](#ilk-göç)
@@ -20,9 +20,9 @@ Bu fantastik diyarın geniş dokumasında; unutulmuş çağların yankıları, z
 
 ### Uzun Akşam Olayı
 
-Tam tamına _136 yıl_ boyunca sürmüş olan bu tarihi olay büyük bir göç başlatarak Orbis kıtasına olan ilk büyük göçün tetikleyicisi olmuştur. Aynı zamanda **İlk Çağ'ın** başlangıcı kabul edilir.
+Tam tamına _136 yıl_ boyunca sürmüş olan bu tarihi olay büyük bir göç başlatarak Orbis kıtasına olan ilk büyük göçün tetikleyicisi olmuştur. Aynı zamanda İlk Çağ'ın başlangıcı kabul edilir.
 
-[Orbis]({{site.baseurl}}cografya/Orbis.html) tarihinde karanlık ve soğukla örtülenmiş bir bölüm bulunur, adı da **Uzun Akşam** olarak anılır. Kışın buz etkisinin toprağı sıkılaştırdığı, güneşin gökyüzüne küstüğü ve böylece dünyayı boyun eğmez bir alacakaranlığa sürüklediği bir dönemdi.
+[Orbis]({{site.baseurl}}cografya/Orbis.html) tarihinde karanlık ve soğukla örtülenmiş bir bölüm bulunur, adı da Uzun Akşam olarak anılır. Kışın buz etkisinin toprağı sıkılaştırdığı, güneşin gökyüzüne küstüğü ve böylece dünyayı boyun eğmez bir alacakaranlığa sürüklediği bir dönemdi.
 
 Bu soğuk diyarın katalizörü, [Uçsuz Deniz'in]({{site.baseurl}}wiki/ucsuz-deniz.html) ötesindeki uzak kuzey diyarlarında ortaya çıktı. Çağlar boyunca uyku süren bir dizi devasa volkan, ateşli bir öfkeyle uyandı, göklere yükselen kül ve erimiş kayaları gökkubbeye doğru püskürttü. Gökyüzü külle boğulurken, toprağın üzerine yıllarca dinmeyecek bir kasvet çöktü, güneşin ışıltılı sıcaklığını perdeledi.
 
@@ -31,7 +31,7 @@ Bir zamanların verimli kuzey kıtası, şimdi ıssız bir çorak araziye dönü
 Kuzeyin yazık halkı amansız kar fırtınalarıyla savaşarak gemilerine bindiler ve keşfedilmemiş vahşi dalgaların arasında yol aldılar. Uçsuz Deniz çetin ve tehlikeliydi. Klanlar ve kabileler kıtlık karşısında birleştiler.
 
 #### İlk Göç
-İlk Göç, **Uzun Akşam** döneminde geçse de ondan bağımsız olarak _2,566 yıl_ sürmüş bir olaydır. Uzun Akşam sona erdiğinde, İlk Göç dönemi daha yeni başlamış sayılır.
+İlk Göç, Uzun Akşam döneminde geçse de ondan bağımsız olarak _2,566 yıl_ sürmüş bir olaydır. Uzun Akşam sona erdiğinde, İlk Göç dönemi daha yeni başlamış sayılır.
 
 Yaklaşan göçmen dalgasının haberi, yoğun ormanlar ve ormanların gizemiyle örtülmüş ıssız kıta Orbis'e ulaştı. Bu topraklar [Irşi]({{site.baseurl}}wiki/irsi.html) olarak bilinen kadim ve güçlü varlıkların; doğanın ruhani koruyucularının topraklarıydı.
 
@@ -45,7 +45,7 @@ Göçmenlerin bir zamanlar yabancı olan inançları, ırşilerin manevi gelenek
 Nihai şafağın ardından, volkanik patlamalar sona erdiğinde ve karanlık gökyüzü açıldığında, göçmenler ve ırşiler; kaderlerinin kesişimiyle birlikte sonsuza dek değişmiş şekilde tek vücut olarak durdular. Irşiler bu göçmenlere [Cüce]({{site.baseurl}}/wiki/cuce.html), ismini vermişlerdir.
 
 ### İstila Devri
-**İlk Göç'ün** ardından, Orbis kıtasında **İstila Devri** olarak bilinen yeni bir dönem başladı. Ancak bu dönem, Orbis sakinleri için yeni ve zorlu bir mücadelenin başlangıcı oldu. İstila Devri ise ==bin yıl== sürmüş olup, aynı zamanda eski kayıtlarda **Felaket Yılları** olarak da geçer.
+İlk Göç'ün ardından, Orbis kıtasında İstila Devri olarak bilinen yeni bir dönem başladı. Ancak bu dönem, Orbis sakinleri için yeni ve zorlu bir mücadelenin başlangıcı oldu. İstila Devri ise bin yıl sürmüş olup, aynı zamanda eski kayıtlarda Felaket Yılları olarak da geçer.
 
 Kuzey kıtasında volkanik patlamaların sonucunda, bu felaketler [ejderhaların]({{site.baseurl}}/wiki/ejderha.html) ortaya çıkmasını tetikledi. Ateşin derinliklerinden doğan bu görkemli ve korkunç yaratıklar, zamanla güçlendi ve sayıları arttı. Sonunda ejderhalar Orbis kıtasına ilerleyerek bin yıl sürecek bir çatışma ve kargaşa dönemini başlattı.
 
@@ -56,12 +56,12 @@ Muazzam güçlükler karşısında hayatta kalmayı becerenlerin bir kısmı ejd
 Ancak böylesi bir sıkıntı karşısında bile meydan okuma ruhu sönmedi ve Orbis'in gelişmekte olan destanında bir sonraki bölüm için sahneyi hazırladı.
 
 ## Ejder Çağı
-**Ejder Çağı** sırasında, dağlara sığınan Cücelerin hayatta kalan üyeleri dikkate değer bir dönüşüm geçirdi. kendilerini dış dünyaya kapamaları sebebiyle taştan, dağların altındaki zenginliklerden ve sonradan farkına vardıkları [Karaderinliğin]({{site.baseurl}}/wiki/karaderinlik.html) korkutucu varlıklarından başka hiçbir şeyden etkilenmemişlerdir. Bu da onların kendilerine has yeni gelişimler göstermesine sebep olmuştur. [Cüceşehirleri]({{site.baseurl}}/wiki/cuce.html#cüceşehir) ortaya çıkmış, boyları kısalmış ancak kütlelerinden hiçbir şey kaybetmemişlerdir. Diğer hısımlarıyla olan iletişimi sağlayabilmek için atalarından kalma doğa enerjisini manipüle etme biçimleriyle taşı kazma yöntemlerini birleştirerek kendilerine has iletişim dili bulmuşlardır. Böylece başka şehirlerle yüzyüze konuşamasalar da onların nerede olduklarına ve ne durumda olduklarına dair bilgileri öğrenebilmişlerdir. Bu iletişim şeklinin ötesine giderek zamanla kendi dilleri olan [Taşdilini]({{site.baseurl}}/wiki/cuce.html#dil) geliştirmiş, ve kaya kazıma teknikleriyle birlikte runik alfabesini oluşturmuşlardır.
+Ejder Çağı sırasında, dağlara sığınan Cücelerin hayatta kalan üyeleri dikkate değer bir dönüşüm geçirdi. kendilerini dış dünyaya kapamaları sebebiyle taştan, dağların altındaki zenginliklerden ve sonradan farkına vardıkları [Karaderinliğin]({{site.baseurl}}/wiki/karaderinlik.html) korkutucu varlıklarından başka hiçbir şeyden etkilenmemişlerdir. Bu da onların kendilerine has yeni gelişimler göstermesine sebep olmuştur. [Cüceşehirleri]({{site.baseurl}}/wiki/cuce.html#cüceşehir) ortaya çıkmış, boyları kısalmış ancak kütlelerinden hiçbir şey kaybetmemişlerdir. Diğer hısımlarıyla olan iletişimi sağlayabilmek için atalarından kalma doğa enerjisini manipüle etme biçimleriyle taşı kazma yöntemlerini birleştirerek kendilerine has iletişim dili bulmuşlardır. Böylece başka şehirlerle yüzyüze konuşamasalar da onların nerede olduklarına ve ne durumda olduklarına dair bilgileri öğrenebilmişlerdir. Bu iletişim şeklinin ötesine giderek zamanla kendi dilleri olan [Taşdilini]({{site.baseurl}}/wiki/cuce.html#dil) geliştirmiş, ve kaya kazıma teknikleriyle birlikte runik alfabesini oluşturmuşlardır.
 
 Doğa enerjisini manipüle etme yetenekleri zamanla kendi istekleri doğrultusunda başk bir yöne doğru kayıp yer altında işe yarayacak tekniklerde kullanmaya başlamışlardır. Bu şekilde olağanüstü zanaatkarlıkları ve dünyayla derin bağları olan, dayanıklı ve becerikli birer insanlar haline gelmişlerdir. Madencilik, metal işçiliği ve taş işçiliği becerilerini geliştirmiş, dağların içinde Karaderinliğin tehlikelerine karşı konulması için muazzam kaleler inşa etmeye başladılar ve değerli kaynaklar aramak için daha da derinlere inmeye başladılar. Zamanla büyülü eserlerin yaratılmasına birer usta zanaatkâr ve ünlü uzmanlar oldular.
 
 ### İkinci Göç
-**İkinci Göç**, toplamında ==523 yıl== sürmüş bir dönemdir. Bu dönemde [Arysus]({{site.baseurl}}/wiki/arysus.html) isimli kabile Orbis kıtasına gelerek yeni bir dönem başlatmış ve tarihin belki de en büyük değişimini gerçekleştirmişlerdir.
+İkinci Göç, toplamında 523 yıl sürmüş bir dönemdir. Bu dönemde [Arysus]({{site.baseurl}}/wiki/arysus.html) isimli kabile Orbis kıtasına gelerek yeni bir dönem başlatmış ve tarihin belki de en büyük değişimini gerçekleştirmişlerdir.
 
 Anavatanları Erys olan, uzak doğudaki bir kıtada yaşayan Arysus halkı büyüyü çeşitli biçimlerde kullanma yeteneğine sahip, gizli sanatlarla derin bir bağı olan bir medeniyettiler. Zaman içinde anavatanları, kendilerinden daha güçlü düşmanlarla ve yaşam tarzlarını tehdit edecek kadar azalan kaynaklar sebebiyle çok sayıda zorlukla karşı karşıya kaldı.
 
@@ -76,9 +76,9 @@ Ejderlerle olan çarpışmaları sonucunda ejderhaların yenilmez olmadığını
 Bu ittifak, devam eden mücadelelerinde önemli bir detay olduğını olduklarını kanıtladı. Arysuslar, yeni buldukları müttefiklerini kendilerini savunmak ve ejderhalara karşı koordineli saldırılar başlatmak için büyü bilgilerini paylaştı.
 
 [Ejder Savaşı]({{site.baseurl}}/wiki/ejder-savasi.html) adı verilen geniş çaplı bir savaş başladı. Bu savaşta Cüceler, hem druidler hem de Arysuslar omuz omuza savaştı. [Kanatlı Şövalye Thyr]({{site.baseurl}}/wiki/kanatli-sovalye-thyr.html) liderliğinde ejderhaları kontrol eden Neheril yok edildi. Artık ejderlerin hükmü bitmiş, sıra insanların hükmündeydi; ancak ejderhalar tamamiyle yeryüzünden silinmiş de sayılmazdı.
-Bu döneme **Kahramanlar Devri** denmesinin en büyük sebebi, savaşın ardından büyük kahramanların; ve onlarla birlikte Orbis'in dört büyük hanedanlıklarının kuruluşudur:
+Bu döneme Kahramanlar Devri denmesinin en büyük sebebi, savaşın ardından büyük kahramanların; ve onlarla birlikte Orbis'in dört büyük hanedanlıklarının kuruluşudur:
 
-- **Kanatlı Şövalye Thyr** savaşta kazandığı ün ile [Rhûnlos'un tepesine]({{site.baseurl}}/wiki/rhun.html) yerleşti ve [Thyrondor]({{site.baseurl}}/wiki/thyrondor-hanesi.html) hanesini kurdu.
+- Kanatlı Şövalye Thyr savaşta kazandığı ün ile [Rhûnlos'un tepesine]({{site.baseurl}}/wiki/rhun.html) yerleşti ve [Thyrondor]({{site.baseurl}}/wiki/thyrondor-hanesi.html) hanesini kurdu.
 
 - [Büyücü Meldor]({{site.baseurl}}/wiki/buyucu-meldor.html) [Hisar'ı]({{site.baseurl}}/wiki/hisar.html) inşa ederek [Meldorren]({{site.baseurl}}/wiki/meldorren-hanesi.html) hanesini kurdu. Böylece ilim ve irfanın yayılımı; büyünün gelişimi ve anlaşılmayanın anlaşılması kolaylaştı.
 
