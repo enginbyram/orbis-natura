@@ -6,7 +6,7 @@
     <!-- Container that holds everything -->
     <div class="holy-grail__main">
 
-    <!-- Side panel content goes here -->
+      <!-- Side panel content goes here -->
       {%- include l_sidepanel.html -%}
 
       <!-- Page main content here -->
@@ -23,6 +23,7 @@
       <nav class="toc-panel__container">
         <div class="toc-content">
             <!-- Content goes here -->
+            {% include toc.html html=content ordered=true %}
         </div>
       </nav>
       <script>

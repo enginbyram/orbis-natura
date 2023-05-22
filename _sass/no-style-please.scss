@@ -413,20 +413,41 @@ img {
 
 .toc-panel__container {
   z-index: 2; /* Stay on top */
-  transition: transform 0.5s ease, width .3s linear .1s;
+  transition: transform .3s ease, width .3s ease .1s;
   float:right;
-  width: 20%;
+  width: 18%;
   height: max-content;
-  min-height: 500px;
   max-width: 350px;
   max-height: 500px;
   margin: 35px 0;
   background-color: $side;
-  opacity: 1;
 
   &.collapsed {
     transform: translateX(100%);
     width: 0;
 
+  }
+
+  .toc-content {
+    padding: 30px 40px;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    ol {
+      ::marker {
+        font-weight: 500;
+      }
+      padding-inline-start: 1.534rem;
+      a {
+        font-size: 11px;
+        text-transform: none;
+        border-bottom: none;
+        font-weight: 500;
+        color: $text;
+        text-transform: none;
+
+
+      }
+    }
   }
 }
