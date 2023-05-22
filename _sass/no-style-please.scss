@@ -18,7 +18,7 @@ $lily: rgb(235,188,186);
 $red: rgb(255,98,107);
 $rose: rgb(243,137,143);
 $violet: rgb(196,167,231);
-$blue: rgb(147,183,245);
+$blue: rgb(147, 183, 245);
 $sea: rgb(104,188,204);
 $cyan: rgb(137,199,223);
 $turquoise: rgb(128,216,220);
@@ -52,6 +52,7 @@ body[a="dark"] { @include dark-appearance; }
 // see: https://stackoverflow.com/a/61265706
 html, body {
   background-color: $base;
+  scroll-behavior: smooth;
 }
 
 html { height: 100%; }
@@ -81,7 +82,7 @@ body {
 
 h1 {
   font-family: $headerfont;
-  color: $text;
+  color: $violet;
   border-bottom: 1px solid rgba($text, .32);
   text-align: center;
   text-transform: uppercase;
@@ -90,7 +91,14 @@ h1 {
 h2, h3, h4, h5, h6 {
   margin-top: 3rem;
   font-family: $headerfont;
-  color: $cyan;
+  color: $violet;
+  line-height: 1;
+}
+
+h4 {
+  border-bottom: 1px solid $overlay0;
+  line-height: 2;
+  text-align: end;
 }
 
 hr { margin: 2rem 0; }
@@ -100,25 +108,13 @@ p { margin: 1rem 0; }
 li { margin: 0.4rem 0; }
 
 a {
-  color: $red;
+  color: $lemon;
+  font-weight: 600;
   text-decoration: none;
 }
 
 b, strong {
-  color: $orange;
-} 
-
-*:target { background: yellow; }
-
-.page-content {
-  /* Take the remaining width */
-  flex-grow: 1;
-}
-
-.w {
-  max-width: 640px;
-  margin: 0 auto;
-  padding: 4rem 2rem;
+  font-weight: 500;
 }
 
 hr {
@@ -193,6 +189,35 @@ img {
 .main-cats {
   padding: 32px;
 
+  .side-button {
+    cursor: pointer;
+    height: 45px;
+    align-items: center;
+    display: flex;
+    border: 1px solid rgba($overlay0, .45);
+    padding: 7px;
+    transition: background-color 0.375s ease, opacity 0.3s ease;
+    transition: border-color 0.375s ease;
+    user-select: none;
+    i {
+      display: flex;
+      padding-left: 10px;
+    }
+    p {
+      display: flex;
+      padding-left: 10px;
+      color: $text;
+      text-transform: uppercase;
+      font-family: "EB Garamond";
+      font-weight: 700;
+      font-size: 1.23rem;
+      line-height: 1;
+    }
+  }
+  .side-button:hover {
+    background-color: rgba($blue, 0.12);
+    border-color: rgba($text, 1);
+  }
 }
 
 // BUTTONS //
@@ -247,20 +272,30 @@ img {
 .contentbox__main {
   display: flex;
   flex-wrap: wrap;
+  a {
+    color: $text;
+  }
   .contentbox-container {
-    min-width: 200px;
-    min-height: 310px;
     flex: 1;
     margin: 10px 10px;
     display: flex;
     flex-direction: row;
     border: 1px solid rgba($overlay0, .45);
+    transition: background-color 0.375s ease, opacity 0.3s ease;
+    transition: border-color 0.375s ease;
+    user-select: none;
+
+  }
+  .contentbox-container:hover {
+    background-color: rgba($blue, 0.12);
+    border-color: rgba($text, 1);
   }
   .contentbox-cc {
+    cursor: pointer;
     flex: 1;
     padding: 10px 20px;
     p {
-      font-size: 12px;
+      font-size: 16px;
       text-align: justify;
     }
     .artbox {
@@ -271,4 +306,39 @@ img {
       }
     }
   }
+}
+
+ // PAGE CONTENT //
+
+.page-content {
+  /* Take the remaining width */
+  flex-grow: 1;
+  .w {
+    max-width: 540px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+
+    h1 {
+      font-size: 2.375rem;
+    }
+    h2 {
+      font-size: 2.075rem;
+    }
+    h3 {
+      font-size: 1.875rem;
+    }
+    h4 {
+      font-size: 1.675rem;
+    }
+    h5 {
+      font-size: 1.375rem;
+    }
+    p {
+      margin-bottom: 1em; /* Adjust the value as needed */
+      text-align: justify;
+      word-spacing: -1px;
+      font-family: "EB Garamond";
+      font-size: 20px;
+    }
+  }  
 }
