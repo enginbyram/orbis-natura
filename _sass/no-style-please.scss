@@ -53,6 +53,10 @@ $highlight-text: #f79d7c33;
     display: none;
     opacity: 0;
   }
+
+  .post-container {
+    display:none;
+  }
 }
 
 @media screen and (max-width: 550px) {
@@ -81,7 +85,7 @@ body {
   line-height: calc(1ex / 0.32);
   margin: 0;
   min-height: 100%;
-  overflow-wrap: break-word;
+  // overflow-wrap: break-word;
   display: flex;
   flex-direction: column;
 
@@ -141,7 +145,13 @@ body {
   flex-direction: row;
 }
 
-.post-meta { text-align: right; }
+.post-meta { 
+  text-align: end !important;
+  font-family: $textfont !important;
+  font-size: 12px !important;
+  color: $red;
+  font-weight: 700;
+}
 
 h1 {
   font-family: $headerfont;
@@ -156,11 +166,9 @@ h2, h3, h4, h5, h6 {
   margin-top: 3rem;
   font-family: $headerfont;
   color: $text;
-  line-height: 1;
 }
 
 h4 {
-  border-bottom: 1px solid $text;
   line-height: 2;
   text-align: end;
 }
@@ -254,8 +262,8 @@ img {
 }
 
 .caret-cont-sidepanel:hover {
-  background-color: rgba($blue, 0.12);
-  border-color: rgba($text, 1);
+  background-color: rgba($lemon, 0.12);
+  border-color: rgba($lemon, 1);
 }
 
 .caret-cont-sidepanel.press {
@@ -336,10 +344,10 @@ img {
   }
 
   h1 a:hover {
-    color: $cyan;
+    color: $lemon;
   }
   h1:hover {
-    text-shadow: 0px 0px 15px rgba($text, .45);
+    text-shadow: 0px 0px 15px rgba($lemon, .45);
   }
 
   .side-button {
@@ -368,8 +376,8 @@ img {
     }
   }
   .side-button:hover {
-    background-color: rgba($blue, 0.12);
-    border-color: rgba($text, 1);
+    background-color: rgba($lemon, 0.12);
+    border-color: rgba($lemon, 1);
   }
 }
 
@@ -378,6 +386,12 @@ img {
 .scaff-container {
   cursor: pointer;
   padding: 1px 12px;
+
+  
+  ul {
+    padding-inline-start: 0;
+    text-indent: 2%;
+  }
 }
 .scaff-content.collapsed {
   max-height: 500px;
@@ -457,8 +471,8 @@ img {
 
   }
   .contentbox-container:hover {
-    background-color: rgba($blue, 0.12);
-    border-color: rgba($text, 1);
+    background-color: rgba($lemon, 0.12);
+    border-color: rgba($lemon, 1);
   }
   .contentbox-cc {
     cursor: pointer;
@@ -494,15 +508,22 @@ img {
       font-size: 2.375rem;
     }
     h2 {
+      border-bottom: 1px solid $text;
       font-size: 1.675rem;
+      line-height: 1.5;
+      text-align: center;
+      font-variant: small-caps;
     }
     h3 {
+      text-indent: 4.75%;
       font-size: 1.275rem;
     }
     h4 {
+      text-indent: 4.75%;
       font-size: 1.175rem;
     }
     h5 {
+      text-indent: 4.75%;
       font-size: .875rem;
     }
     p {
@@ -544,8 +565,8 @@ img {
 }
 
 .caret-cont:hover {
-  background-color: rgba($blue, 0.12);
-  border-color: rgba($text, 1);
+  background-color: rgba($lemon, 0.12);
+  border-color: rgba($lemon, 1);
 }
 
 .toc-panel__container {
@@ -561,7 +582,7 @@ img {
   &.collapsed {
     transform: translateX(100%);
     width: 0;
-
+    
   }
 
   .toc-content {
@@ -604,4 +625,62 @@ img {
   opacity: 0;
   pointer-events: none; /* Disable pointer events on hidden element */
   transition: opacity .6s ease; /* Add a transition effect */
+}
+
+
+
+// Homapage postbox CSS //
+
+.post-container {
+  position: fixed;
+  top: 150px;
+  left: 170px;
+  user-select: none;
+
+  padding: 10px;
+
+  h1 {
+    font-size: 1.2rem;
+  }
+  a {
+    color: $text;
+    text-decoration: none;
+  }
+}
+
+.post-wrapper {
+  i {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+}
+
+.post-list-box {
+  list-style: none;
+  padding: 10px 10px;
+  margin: 10px 10px;
+  overflow-wrap:break-word;
+  border: 1px solid rgba($overlay0, .45);
+  transition: background-color 0.375s ease;
+  transition: border-color 0.375s ease;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+
+  width: 215px;
+  height: 39px;
+  
+
+  .post {
+    display: flex;
+    font-size: .775rem;
+    padding: 0 10px;
+  }
+}
+
+.post-list-box:hover {
+  background-color: rgba($lemon, 0.12);
+  border-color: rgba($lemon, 1);
 }

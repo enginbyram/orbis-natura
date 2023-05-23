@@ -1,0 +1,18 @@
+{
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "assets/",
+    "_layouts/",
+    "_includes/",
+    "_site/",
+    "_data/",
+    "_sass/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_drafts",
+  "alwaysUpdateLinks": true,
+  "trashOption": "none",
+  "promptDelete": false
+}

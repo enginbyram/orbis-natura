@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "en" }}">
+<html lang="{{ page.lang | default: "tr" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
 
@@ -33,6 +33,23 @@
         }
         document.addEventListener('DOMContentLoaded', toggleTocContainer);
       </script>
+    </div>
+
+
+    <!-- POSTS HERE -->
+    <div class="post-container">
+      <div class="post-wrapper">
+        <h1>Külliyat</h1>
+        {% assign posts = site.posts %}
+        {% for post in posts limit:4 %}
+        <a href="{{post.url}}">
+          <div class="post-list-box">
+            <li class="post">{{post.title}}</li>
+          </div>
+        </a>
+       {% endfor %}
+       <i class="fa-solid fa-bookmark fa-2xl" style="color: rgb(246,193,119);" ></i>
+      </div>
     </div>
 
     <!-- FOOTER HERE -->

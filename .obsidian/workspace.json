@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "874c92343014e5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "148cb3410806900d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918c29b52ae2de52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0caa1016dd1cb050",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd58233b086f4907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d075ec28e9bbdf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c66cb91cee8da5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "046e5c0b89a07ecd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fafc063c3da5a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c920c49e948131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63210955a04915ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07fbe60b66792b5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "312b7121d037d675",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c535c1feeb2d187",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d075ec28e9bbdf1",
+  "lastOpenFiles": [
+    "_site/uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.html",
+    "_site/templates/page-template.html",
+    "_site/templates/blog-template.html",
+    "_site/templates",
+    "_posts/2020-07-06-strange-post.md",
+    "templates/blog-template.md",
+    "templates/page-template.md",
+    "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
+    "templates",
+    "_drafts"
+  ]
+}
