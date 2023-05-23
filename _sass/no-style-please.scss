@@ -157,8 +157,6 @@ li { margin: 0.4rem 0; }
 
 a {
   color: $lemon;
-  font-weight: 600;
-  text-decoration: none;
 }
 
 b, strong {
@@ -266,6 +264,7 @@ img {
   max-width: 400px;
   height: max-content;
 
+
   // Scrollbar hide, but keep functionality
   &::-webkit-scrollbar-track {
     -webkit-box-shadow: none !important;
@@ -309,10 +308,15 @@ img {
 
 .main-cats {
   padding: 32px;
+  a {
+    text-decoration: none;
+  }
   h1 a {
     color: $text;
     transition: color ease-in-out .375s;
     transition: text-shadow ease-in-out .375s;
+    text-decoration: none;
+
   }
 
   h1 a:hover {
@@ -407,23 +411,25 @@ img {
 .contentbox__main {
   display: flex;
   flex-wrap: wrap;
-  #green-p {
-    color: rgba($green, .675);
-  }
-  #red-p {
-    color: rgba($red, .675);
-  }
-  #yellow-p {
-    color: rgba($yellow, .675);
-  }
-  #violet-p {
-    color: rgba($violet, .675);
-  }
+  // #green-p {
+  //   color: rgba($green, .675);
+  // }
+  // #red-p {
+  //   color: rgba($red, .675);
+  // }
+  // #yellow-p {
+  //   color: rgba($yellow, .675);
+  // }
+  // #violet-p {
+  //   color: rgba($violet, .675);
+  // }
   a {
     font-weight: 500;
     color: $text;
+    text-decoration: none;
   }
   .contentbox-container {
+
     flex: 1;
     margin: 10px 10px;
     display: flex;
@@ -574,10 +580,12 @@ img {
   width: 100%;
   background-color: rgba(black, .2);
   position: fixed;
-  backdrop-filter: blur(6px);
+  backdrop-filter: blur(10px);
+  transition: opacity .3s ease; /* Add a transition effect */
+
 }
 .overlay-screen.hidden {
   opacity: 0;
   pointer-events: none; /* Disable pointer events on hidden element */
-  transition: opacity 0.3s ease; /* Add a transition effect */
+  transition: opacity .6s ease; /* Add a transition effect */
 }
