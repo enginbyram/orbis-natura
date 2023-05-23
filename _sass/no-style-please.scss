@@ -62,12 +62,16 @@ body {
   color: $text;
   font-family: $textfont;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: calc(1ex / 0.32);
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
   display: flex;
   flex-direction: column;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 
@@ -129,6 +133,7 @@ h1 {
   border-bottom: 1px solid rgba($text, .45);
   text-align: center;
   text-transform: uppercase;
+  line-height: 1.5;
 }
 
 h2, h3, h4, h5, h6 {
@@ -206,15 +211,81 @@ img {
 // -------------------------------------------- //
 
 // SIDE PANEL HERE
+
+.caret-cont-sidepanel {
+  z-index: 3; /* Stay on top */
+  
+  position: fixed;
+
+  left: 23%;
+  top: 5%;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border: 1px solid rgba($overlay0, .45);
+  padding: 7px 14px;
+  transition: background-color 0.375s ease, opacity 0.3s ease, left .3s ease, border-color 0.375s ease;
+  user-select: none;
+  cursor: pointer;
+  height: 45px;
+  width: max-content;
+  #toc-header, p {
+    font-family: $textfont;
+    font-size: 13px;
+    color: $text;
+    text-indent: 0;
+    margin: 0 0 0 .5rem;
+  }
+}
+
+.caret-cont-sidepanel:hover {
+  background-color: rgba($blue, 0.12);
+  border-color: rgba($text, 1);
+}
+
+.caret-cont-sidepanel.press {
+  left: 1%;
+}
+
 .side-panel {
-  position: relative;
+  margin: 2rem;
+  z-index: 999;
+  transition: transform .3s ease, width .2s linear, opacity .1s ease;
+  opacity: 1;
+
+  position: fixed;
+  overflow-y: scroll;
+  max-height: 90vh;
   top: 0;
   left: 0;
-  width: 25%;
+  width: 20%;
   background-color: $side;
   padding: 20px;
   box-sizing: border-box;
   max-width: 400px;
+  height: max-content;
+
+  // Scrollbar hide, but keep functionality
+  &::-webkit-scrollbar-track {
+    -webkit-box-shadow: none !important;
+    background-color: transparent;
+  }
+  &::-webkit-scrollbar {
+    width: 0 !important;
+    background-color: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: transparent;
+  }
+
+  // ITS GLOWIEEE
+  animation:pulse 1s infinite alternate;
+  @keyframes pulse {
+    from { box-shadow:0px 0px 10px 3px $exterior; }
+    to { box-shadow:0px 0px 20px 5px $exterior; }
+  }
+
   h2 {
     text-align: center;
     text-transform: uppercase;
@@ -229,6 +300,11 @@ img {
   ul {
     list-style: none;
   }
+}
+.side-panel.collapsed {
+  transform: translateX(-100%);
+  width: 0;
+  opacity: 0;
 }
 
 .main-cats {
@@ -296,6 +372,7 @@ img {
 // FOOTER //
 
 .footer-container {
+  z-index: 10;
   background-color: $side;
   border-top: 1px solid rgba($exterior, .65);
   flex:1;
@@ -384,8 +461,10 @@ img {
 .page-content {
   /* Take the remaining width */
   flex-grow: 1;
+  margin: 0 0 0 20rem;
+
   .w {
-    max-width: 540px;
+    max-width: 550px;
     margin: 0 auto;
     padding: 4rem 2rem;
 
@@ -419,7 +498,6 @@ img {
 // Fixed side container (ToC)//
 
 .caret-cont {
-  z-index: 1; /* Stay on top */
   position: relative;
   top:30px;
   left:15px;
@@ -429,16 +507,11 @@ img {
   justify-content: flex-start;
   border: 1px solid rgba($overlay0, .45);
   padding: 7px 14px;
-  transition: background-color 0.375s ease, opacity 0.3s ease;
-  transition: border-color 0.375s ease;
+  transition: background-color 0.375s ease, opacity 0.3s ease, border-color 0.375s ease;
   user-select: none;
   cursor: pointer;
   height: 45px;
   width: max-content;
-  i {
-    transform: rotate(180deg);
-  }
-
   #toc-header, p {
     font-family: $textfont;
     font-size: 13px;
@@ -454,7 +527,6 @@ img {
 }
 
 .toc-panel__container {
-  z-index: 2; /* Stay on top */
   transition: transform .3s ease, width .3s ease .1s;
   float:right;
   width: 18%;
@@ -492,4 +564,20 @@ img {
       }
     }
   }
+}
+
+// Overlay Screen for side panel //
+
+.overlay-screen {
+  z-index: 3;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(black, .2);
+  position: fixed;
+  backdrop-filter: blur(6px);
+}
+.overlay-screen.hidden {
+  opacity: 0;
+  pointer-events: none; /* Disable pointer events on hidden element */
+  transition: opacity 0.3s ease; /* Add a transition effect */
 }

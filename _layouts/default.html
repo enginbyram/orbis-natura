@@ -43,14 +43,11 @@
       {%-include goat_counter.html-%}
     {%-endif-%}
 
-    {% if page.custom_js %}
-      {% for js_file in page.custom_js %}
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
-      {% endfor %}
-    {% endif %}
 
-    <!-- Side panel scaffold script is here, do not touch -->
+
+    <!-- Side Panel scripts are here -->
     <!-- External scripting is not working for some reason -->
+    <!-- scaffold script is here, do not touch -->
     <script>
       document.addEventListener("DOMContentLoaded", function() {
         var button = document.querySelector(".scaff-button");
@@ -60,6 +57,20 @@
           content.classList.toggle("collapsed");
         });
       });
+    </script>
+
+    <!-- Side panel show/hide script -->
+    <script>
+      function toggleSidePanel() {
+        var sidePanel = document.querySelector('.side-panel');
+        var overlayScreen = document.querySelector('.overlay-screen');
+        var caretButton = document.querySelector('.caret-cont-sidepanel');
+        
+        caretButton.classList.toggle('press');
+        sidePanel.classList.toggle('collapsed');
+        overlayScreen.classList.toggle('hidden');
+      }
+      document.addEventListener('DOMContentLoaded', toggleSidePanel());
     </script>
   </body>
 </html>

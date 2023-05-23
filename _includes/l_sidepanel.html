@@ -1,3 +1,4 @@
+<div class="overlay-screen"></div>
 <nav class="side-panel">
     <!-- Side panel content goes here -->
     <ul class="main-cats">
@@ -31,10 +32,13 @@
         </li>
       </a>
     </ul>
-    <div class="scaff-container">
+    <!-- <div class="scaff-container">
       <h3 class="scaff-button">Tüm Girdiler</h3>
       <div class="scaff-content">
         {%-include menu_item.html collection=site.data.menu.entries-%}
       </div>
-    </div>
+    </div> -->
   </nav>
+  <div class="caret-cont-sidepanel" onclick="toggleSidePanel()">
+    <i class="fa-solid fa-caret-left fa-lg" style="color: rgb(198, 208, 245);"></i>
+  </div>
