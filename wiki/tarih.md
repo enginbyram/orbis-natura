@@ -2,20 +2,8 @@
 title: Tarih
 layout: page
 categories: tarih
-toc: true
 ---
 _Bu fantastik diyarın geniş dokumasında; unutulmuş çağların yankıları, zamansız efsanelerin fısıltılarıyla iç içe geçen sihir, çatışma ve sakinlerinin yenilmez ruhunun dokunduğu bir tarih ortaya çıkar. Kozmosu şekillendiren ilkel güçlerden tutun da büyük medeniyetlerin yükselişine ve çöküşüne kadar bütün bu ansiklopedi eski çağların derinliklerine inerek hayret verici dünyanın özünü şekillendiren zaferleri ve trajedileri gün yüzüne çıkarır._
-
-<!-- > ### İçindekiler
-- [İlk Çağ](#i̇lk-çağ)
-    - [Uzun Akşam Olayı](#uzun-akşam-olayı)
-    - [İlk Göç](#ilk-göç)
-    - [İstila Devri](#istila-devri)
-- [Ejder Çağı](#ejder-çağı)
-    - [İkinci Göç](#ikinci-göç)
-    - [Kahramanlar Devri](#kahramanlar-devri)
-    - [Büyük Bölünme](#büyük-bölünme)
-- [Karanlık Çağ](#karanlık-çağ) -->
 
 ## İlk Çağ
 

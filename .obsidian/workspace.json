@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
+                "file": "wiki/tarih.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
+                "file": "wiki/tarih.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
+                "file": "wiki/tarih.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md"
+                "file": "wiki/tarih.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d075ec28e9bbdf1",
+  "active": "918c29b52ae2de52",
   "lastOpenFiles": [
+    "wiki/cuce.md",
+    "archive.md",
+    "about.md",
+    "_posts/2020-07-08-language-tests.md",
+    "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
+    "templates/hr-datacontent.md",
     "_site/uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.html",
     "_site/templates/page-template.html",
     "_site/templates/blog-template.html",
@@ -155,7 +161,6 @@
     "_posts/2020-07-06-strange-post.md",
     "templates/blog-template.md",
     "templates/page-template.md",
-    "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
     "templates",
     "_drafts"
   ]
