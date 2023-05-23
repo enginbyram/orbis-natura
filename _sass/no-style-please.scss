@@ -29,27 +29,43 @@ $orange: rgb(247,157,124);
 
 $highlight-text: #f79d7c33;
 
-// -------------- THEME SWITCHER -------------- //
-@mixin dark-appearance {
-  filter: invert(1);
-  img {
-    filter: invert(1);
+@media screen and (max-width: 1180px) {
+  .holy-grail__main {
+    display: block !important;
+  }
+  .side-panel.hidden {
+    display: none;
+  }
+  .caret-cont-sidepanel.press {
+    display: none;
+  }
+  .page-content {
+    margin: 0 !important;
 
-    &.ioda { filter: invert(0); }
+    .w {
+      margin: auto !important;
+    }
+  }
+  .toc-panel__container {
+    display: none;
+  }
+  .caret-cont {
+    display: none;
+    opacity: 0;
   }
 }
 
-body[a="dark"] { @include dark-appearance; }
-
-
-@media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
+@media screen and (max-width: 550px) {
+  .page-content {
+    p { font-size: .875rem !important; }
+    h1 { font-size: calc(100% - 2px) !important; }
+    h2 { font-size: calc(100% - 2px) !important; }
+    h3,h4,h5,h6 { font-size: calc(100% - 2px) !important; }
+    line-height: 1.355;
+  }
 }
-// -------------------------------------------- //
 
-// bg color is also needed in html in order to
-// block body's background propagation
-// see: https://stackoverflow.com/a/61265706
+
 html, body {
   background-color: $base;
   scroll-behavior: smooth;
