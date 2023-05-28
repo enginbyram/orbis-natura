@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "148cb3410806900d",
+        "id": "c600a6454beec6f0",
         "type": "tabs",
         "children": [
           {
-            "id": "918c29b52ae2de52",
+            "id": "3d17b68df797e909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/tarih.md",
+                "file": "_drafts/buyu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/tarih.md",
+                "file": "_drafts/buyu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/tarih.md",
+                "file": "_drafts/buyu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/tarih.md"
+                "file": "_drafts/buyu.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "918c29b52ae2de52",
+  "active": "3d17b68df797e909",
   "lastOpenFiles": [
+    "wiki/cuce.md",
+    "wiki/tarih.md",
+    "_drafts/buyu.md",
+    "_drafts/draft_buyu.md",
     "templates/hr-datacontent.md",
     "about.md",
-    "wiki/cuce.md",
     "archive.md",
     "_posts/2020-07-08-language-tests.md",
     "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",

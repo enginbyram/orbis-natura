@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Language Tests"
-category: example2
+category: Example
+desc: This is a Japanese test post to show you how japanese is displayed.
 ---
 
 Note: I took this test post from [moving](https://github.com/huangyz0918/moving), which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.

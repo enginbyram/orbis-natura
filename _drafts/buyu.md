@@ -1,6 +1,9 @@
 ---
-layout: home
+layout: page
+title: Büyü
+categories: buyu
 ---
+# Büyü
 **Büyü**, bireylerin istenen sonuçları elde etmek için dünyanın enerjisini manipüle etme yeteneğine denir. Büyünün temelinde enerji, veya bazen "saf büyü" dediğimiz aura yatar. Saf büyü denmesinin sebebi ise, alt başlıklarda belirtileceği gibi, enerjinin dizginlenmemiş bu halini büyü yapmak için kullanan kimselerin olmasından dolayıdır.
 
 Bu enerji farklı alt dallarda dizginlenerek başka "büyü" çeşitlerine ayrılmıştır. Bunlardan Arkan sanatı kendi içinde pek farklı alana ayrılır.
@@ -101,3 +104,11 @@ Sihirbazlar, belirli bir ekolün büyülerinde uzmanlaşmayı seçerler; seçtik
 - **Cezb (Büyüleme)**: Başkalarının zihinlerini manipüle etmede uzmanlaşan ekoldür. Bu büyücülere “cezip” denir. Bekçi inancına göre mekruh olarak değerlendirilir.
 - **Zuhur (Evokasyon)**: Görünüşte yokta var edilen etkiler olarak görülse de büyükumaşındaki enerjiyi direkt çekmeye yarayan bir ekoldür. Ateş, su gibi elementler oluşturulabilir. Bu büyücülere ekolün kendi adıyla “zuhur” denir.
 - **Kronomansi**:  Zaman içerisinde hareket etme ve zamanın manipülasyonu ile ilgilenen ekoldür. Bu ekolü idrak etmek neredeyse imkansız olduğundan çok nadir karşılaşılan bir ekoldür. Kullanıcılarının zamanla insani duygulardan arındığı söylenir, bu sebeple Bekçi inancına göre mekruh olarak değerlendirilir.
+
+### Divine Powers
+
+### Blood Magic and Necromancy
+
+#### Blood Magic
+
+#### Necromancy

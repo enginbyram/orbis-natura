@@ -2,14 +2,15 @@
 layout: default
 ---
 
-{%-include back_link.html-%}
-
-<article>
-  <p class="post-meta">
-    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
-  </p>
-  
-  <h1>{{ page.title }}</h1>
+<div class="post_front-matter">
+  <div class="post__date">{{ page.date | date: '%A, %-d %b %Y' }}</div>
+  <div class="card_categories_section">
+    <ul>
+      {% for category in page.categories %}
+        <li id="green_cat" class="category_pills">{{ category }}</li>
+      {% endfor %}
+    </ul>
+</div>
+</div>
 
   {{ content }}
-</article>

@@ -1,93 +1,38 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: "tr" }}">
   {%- include head.html -%}
-  <body a="{{ site.theme_config.appearance | default: "auto" }}">
-
-    <!-- Container that holds everything -->
-    <div class="holy-grail__main">
-
-      <!-- Side panel content goes here -->
-      {%- include l_sidepanel.html -%}
-
-      <!-- Page main content here -->
-      <main class="page-content" aria-label="Content">
-        <div class="w">
-          {{ content }}
-        </div>
-      </main>
-
-      <!-- Side ToC popup -->
-      <div class="caret-cont" onclick="toggleTocContainer()">
-        <i class="fa-solid fa-caret-right fa-lg" style="color: rgb(198, 208, 245);"></i>
+  <body>
+    <main class="main_wrapper">
+      <!-- Topbar here -->
+      <div class="topbar_wrapper">
+        {%- include topbar.html -%}
       </div>
-      <nav class="toc-panel__container">
-        <div class="toc-content">
-            <!-- Content goes here -->
-            {% include toc.html html=content ordered=true %}
-        </div>
-      </nav>
-      <script>
-        function toggleTocContainer() {
-            var tocContainer = document.querySelector('.toc-panel__container');
-            tocContainer.classList.toggle('collapsed');
-        }
-        document.addEventListener('DOMContentLoaded', toggleTocContainer);
-      </script>
-    </div>
+      <div class="mainport_wrapper">
+        <!-- Main Viewport here -->
+        <article class="mainport_container">
 
-
-    <!-- POSTS HERE -->
-    <div class="post-container">
-      <div class="post-wrapper">
-        <h1>Külliyat</h1>
-        {% assign posts = site.posts %}
-        {% for post in posts limit:4 %}
-        <a href="{{site.baseurl}}{{post.url}}">
-          <div class="post-list-box">
-            <li class="post">{{post.title}}</li>
+          <!-- Sidebar here -->
+          {% include sidebar.html %}
+          <div class="sidebar_button">
+            <i class="fa-solid fa-caret-left" style="color: #131313;"></i>
           </div>
-        </a>
-       {% endfor %}
-       <i class="fa-solid fa-bookmark fa-2xl" style="color: rgb(246,193,119);" ></i>
-      </div>
-    </div>
 
-    <!-- FOOTER HERE -->
-    {%- include footer.html -%}
+          <div class="contentbox collapsed">
+            {{ content }}
 
-    <!-- Some site scripts here, do not touch -->
-    {%-if site.goat_counter and jekyll.environment == "production"-%}
-      {%-include goat_counter.html-%}
-    {%-endif-%}
-
-
-
-    <!-- Side Panel scripts are here -->
-    <!-- External scripting is not working for some reason -->
-    <!-- scaffold script is here, do not touch -->
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        var button = document.querySelector(".scaff-button");
-        var content = document.querySelector(".scaff-content");
-
-        button.addEventListener("click", function() {
-          content.classList.toggle("collapsed");
-        });
-      });
-    </script>
-
-    <!-- Side panel show/hide script -->
-    <script>
-      function toggleSidePanel() {
-        var sidePanel = document.querySelector('.side-panel');
-        var overlayScreen = document.querySelector('.overlay-screen');
-        var caretButton = document.querySelector('.caret-cont-sidepanel');
+            
+          </div>
+        </article>
         
-        caretButton.classList.toggle('press');
-        sidePanel.classList.toggle('collapsed');
-        overlayScreen.classList.toggle('hidden');
-      }
-      document.addEventListener('DOMContentLoaded', toggleSidePanel());
-    </script>
+          <!-- Blog posts are here -->
+          <!-- <div class="blogposts_wrapper">
+
+          </div> -->
+
+      </div>
+    </main>
+    
+    <!-- Footer here -->
+    {%- include footer.html -%}
   </body>
 </html>
