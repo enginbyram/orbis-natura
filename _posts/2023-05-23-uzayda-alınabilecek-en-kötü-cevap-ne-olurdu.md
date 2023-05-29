@@ -2,7 +2,7 @@
 layout: post
 title: Uzaydan alınabilecek en kötü cevap ne olurdu?
 desc: Yeni aklıma gelen bilim kurgu hikaye fikirleri.
-category: Fikirler
+tags: Fikirler
 ---
 
 #### Sanki milyonlar korku içinde ağladı bir anlığına, sonra susturuldular

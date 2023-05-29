@@ -1,0 +1,4 @@
+durum: #status/stub   
+tarih: 2022-11-28 | 03:17
+# Paladin
+**Paladinler** inançlarına bağlı savaşçılar ve şövalyelerdir. Kendi etiklerini, değerlerini ve inançlarını yaymak; onlara karşı gelenleri durdurmak için çarpışırlar. Erdem örneği olan paladinler, bağlı oldukları meleklerin, mesihlerin veya inancın kutsal büyülerini kullanabilme yetilerine sahiptirler. Bu paladinler yollarını kaybetmedikçe güçlerini ellerinde tutabilirler, ancak inançlarının dışına çıktıklarında kutsal büyü gücü ellerinden alınır. Paladin olma hayali kuran kişiler çoğunlukla kalpleri iyi olan kişilerdir, ancak kötü paladinler de az da olsa vardır.

@@ -1,0 +1,8 @@
+durum: #status/developing   
+tarih: 2022-11-28 | 03:45
+	# Beelzebub
+**Beelzebub**(okunuşu: /**biːˈɛlzəbʌb, ˈbiːl-**/), **Sinek Tanrıçası** veya **Sineklerin Tanrıçası** sıfatıyla da bilinir. [[Carcosa#Oburluk Katı|Carcosa’nın]] [[Carcosa#III. Kat: Oburluk|üçüncü katının]] lordu, [[Sinek Tarikatı|Sinek Tarikatı’nın]] kurucusudur. [[Yedi Günah#Oburluk|Oburluğun]], pisliğin, vebanın ve zehrin tanrısıdır. Çoğu zaman ölüm ve talihsizliği beraberinde getiren bir kocakarı olarak tasvir edilse de bazı durumlarda zararsız güzel bir kadın olarak da tasvir edilir.
+
+Beelzebub ana formunda kanatlı, ince uzun bir kırmızı bir [[İblisler|iblistir]]; fakat [[Fani Diyar|Fani Diyar’daki]] [[Avatar|avatarı]] neredeyse üç metre boyunda, uzun paçoz saçlı sıska bir kadındır. Kutsal yazıtların betimlemesine bakılacak olursa: Kafasında gayet rengi solmuş bir taç ve yüzünde oldukça fazla irinli yara bulunmaktadır. Avatarlarının görünüşü, hayatının eski bir noktasında oldukça alımlı bir hanımefendiyken zaman içerisinde kötü emeller ve hastalıklar nedeniyle güçten ve güzellikten düşmüş, saflığından eser kalmamış hissiyatı verir. Fakat böyle görünse de hal ve hareketleri oldukça davetkâr ve cilvelidir.
+
+Beelzebub diğer iblislere göre pek farklıdır. Dikkat çekmek için elinden gelen her şeyi yapmaya çalışırken aniden değişen karakteriyle davranışları bir anda eski sevgilinin mesafeli tavrına dönebilir, bu nedenle bilge kimseler tarafından aksi ve huysuz bir çocuğa benzetilir. Kötü bir tanrı olmasına rağmen şiddete karşı bir tavır sergiler.

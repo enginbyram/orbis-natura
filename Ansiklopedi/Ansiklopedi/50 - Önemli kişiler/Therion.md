@@ -1,0 +1,8 @@
+# Therion
+**Therion**, [İkinci Çağ](https://aarthalopedia.miraheze.org/wiki/Ejder_%C3%87a%C4%9F%C4%B1 "Ejder Çağı") sırasında yaşamış [Royne İmparatorluğu'nun](https://aarthalopedia.miraheze.org/wiki/Royne_%C4%B0mparatorlu%C4%9Fu "Royne İmparatorluğu") Yüksek Komutanıdır. [İsyanlar Periyodu](https://aarthalopedia.miraheze.org/w/index.php?title=%C4%B0syanlar_Periyodu&action=edit&redlink=1 "İsyanlar Periyodu (sayfa mevcut değil)") sırasında önemli bir rol oynamıştır.
+
+Hayatını, ailesini hiç tanımadan geçirmiştir. Bebeklikten [Bahamut Kilise'ne](https://aarthalopedia.miraheze.org/w/index.php?title=Bahamut_Kilisesi&action=edit&redlink=1 "Bahamut Kilisesi (sayfa mevcut değil)") verilmiş, orada Bahamut'un öğretilerine göre eğitim almıştır. Ergenliğe girdiğinde seçim yapması istenmiştir; ya bir rahip olarak kilise içerisinde görev alacaktır, veya bir paladin olarak ön saflarda Bahamut'un askerleri olarak savaşacaktır. Seçimini paladinden yana kullanan Therion, bu noktada hayatına yeni bir yol çizmiştir.
+
+Uzun ve ağır eğitimlerin ardından kendini savaş alanında pek çok kez yararlı gösteren Therion, [On İki Tepe](https://aarthalopedia.miraheze.org/w/index.php?title=On_%C4%B0ki_Tepe_Sava%C5%9F%C4%B1&action=edit&redlink=1 "On İki Tepe Savaşı (sayfa mevcut değil)") savaşında gösterdiği büyük fedakârlıklar sonucunda çifte rütbe atlamıştır. Bu noktada rütbeleri tırmanan Therion otuzlu yaşlarına geldiğinde en genç Yüksek Komutan rütbesine sahip asker olmuştur.
+
+Komuta ettiği her savaşta galip gelen Therion, [Royne İmparatorluğu'nun](https://aarthalopedia.miraheze.org/wiki/Royne_%C4%B0mparatorlu%C4%9Fu "Royne İmparatorluğu") yıkılış sırasında üstün beceriler sarf etmiştir.

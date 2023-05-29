@@ -140,6 +140,11 @@ body {
   background-color: $white0;
 }
 
+//// DO NOT DISPLAY ToC IN THE HOME PAGE ////
+a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
+    display: none !important;
+  }
+
 // Topbar starts here //
 
 .topbar_wrapper {
@@ -263,8 +268,11 @@ body {
 
 .contentbox {
   margin: 50px auto;
-  width: 700px;
   padding:0 50px;
+}
+
+.post_wrapper {
+  width: 700px;
 }
 
 // Sidebar CSS //
@@ -289,10 +297,10 @@ body {
 
 
       a {
-        background-color: rgba($white1, .35);
+        background-color: rgba($white0, .35);
         transition: background-color ease .3s;
-        border-radius: 10px;
-        padding:7px 10px;
+        border-radius: 7px;
+        padding:5px 7px;
       }
 
       a:hover {
@@ -301,11 +309,12 @@ body {
       }
 
       ul {
-        margin: 0;
+        padding: 0px 5px 0px 7px;
+        margin: 0 5px 9px 9px;
       }
       ul:nth-child(1) {
         border:none;
-        padding:0 0 0 14px;
+        padding:14px 0;
       }
       li {
         margin: 10px 0 0 0;
@@ -357,8 +366,10 @@ body {
       }
 
       li {
-        background-color: rgba($white1, .35);
+        background-color: rgba($white0, .35);
         transition: background-color ease .3s;
+        width: max-content;
+        padding-right: 10px;
       }
       li:hover {
         background-color: $white2;
@@ -463,26 +474,29 @@ body {
 
 // Blogpost section starts here //
 
-.blogpost_header {
-  font-size: 23px;
+.blogposts_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1000px;
+}
+
+.blogpost_header h2 {
+  font-size: 20px;
   font-weight: 600;
   padding:50px 0 0 50px;
-
 }
 
 .blogpost_container {
-  margin:50px 25px;
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
   
   .article_card {
-    min-width: 336px;
-    max-width: 336px;
+    width: 300px;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 
-    margin:0 10px;
-    padding: 25px;
+    padding: 0 10px;
 
     .card_info {
 
@@ -492,11 +506,11 @@ body {
         align-items:flex-start;
 
         .cardopen_button {
-          padding: 10px;
+          padding: 20px 10px 10px 10px;
         }
 
         .info__date {
-          font-size: 13px;
+          font-size: 11.5px;
           font-weight: 600;
           color: $purple;
           padding: 20px 0 0 0;
@@ -504,45 +518,47 @@ body {
       }
 
       .info__title {
-        font-size: 23px;
+        font-size: 16.6px;
         font-weight: 600;
         color: $black1;
-        margin:10px 0 20px 0;
+        margin:10px 10px 20px 0;
       }
 
       .info__desc {
-        padding-bottom:10px;
-        font-size:16px;
+        padding-bottom:13px;
+        font-size:13.5px;
         text-align: justify;
         letter-spacing: -.4px;
-        font-weight: 500;
         color: $black3;
       }
     }
   }
 }
 .card_categories_section ul {
+  width: max-content;
+  padding: 0;
   display: flex;
-  flex-direction: row;
-  padding:10px 10px;
+  
 
   li {
-    font-size: 13px;
-    padding:5px 13px 5px 13px;
-    margin:0 5px;
+    font-size: 10.5px;
+    padding: 0px 7px;
     list-style: none;
+    border-radius: 10px;
+
   }
   #red_cat {
     background-color: $redbg;
     color: $red;
     border-radius:10px;
+    font-weight: 600;
   }
   #green_cat {
     background-color: $greenbg;
     border-radius:10px;
-
     color: $green;
   }
+
   #blue_cat {
     background-color: $bluebg;
     border-radius:10px;

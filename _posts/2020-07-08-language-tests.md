@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Language Tests"
-category: Example
+tags: Example
 desc: This is a Japanese test post to show you how japanese is displayed.
 ---
 

@@ -1,25 +1,24 @@
 <div class="blogpost_inner_container">
     <div class="blogpost_header">
-        En yeni blog yazıları
+        <h2>Son yazılar</h2>
     </div>
     
     <div class="blogpost_container">
-        {% for post in site.posts limit:3 %}
+        {% for post in site.posts %}
             <div class="article_card">
                 <div class="card_info">
                     <div class="info_topinfos">
                         <div class="info__date">{{ post.date | localize: "%A, %-d %b %Y" }}</div>
                         <a href="{{ site.baseurl }}{{post.url}}" class="cardopen_button">
-                            <i class="fa-solid fa-arrow-up-right-from-square fa-lg" style="color: #131313;"></i>
-                        </a>
+                            <i class="fa-sharp fa-solid fa-up-right-and-down-left-from-center fa-xs" style="color: #131313;"></i>                        </a>
                     </div>
                     <div class="info__title">{{ post.title }}</div>
                     <div class="info__desc">{{ post.desc }}</div>
                 </div>
                 <div class="card_categories_section">
                     <ul>
-                        {% for category in post.categories %}
-                        <li id="red_cat" class="category_pills">{{ category }}</li>
+                        {% for tag in post.tasg %}
+                        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ tag }}</li>
                         {% endfor %}
                         <!-- <li id="red_cat" class="category_pills">Fikir</li>
                         <li id="green_cat" class="category_pills" >Büyü</li>

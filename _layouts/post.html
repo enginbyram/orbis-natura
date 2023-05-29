@@ -3,14 +3,16 @@ layout: default
 ---
 
 <div class="post_front-matter">
-  <div class="post__date">{{ page.date | date: '%A, %-d %b %Y' }}</div>
+  <div class="post__date">{{ page.date | date: "%A, %-d %B %Y" }}</div>
   <div class="card_categories_section">
     <ul>
-      {% for category in page.categories %}
-        <li id="green_cat" class="category_pills">{{ category }}</li>
+      {% for tag in page.tags %}
+        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ tag }}</li>
       {% endfor %}
     </ul>
 </div>
 </div>
 
+<div class="post_wrapper">
   {{ content }}
+</div>

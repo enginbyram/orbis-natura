@@ -1,0 +1,9 @@
+durum: #status/complete   
+tarih: 2022-11-28 | 02:22
+# Sarandiel
+>[!poetry]
+>Karanlıkta kaybolmak kolaydır. Yukarı doğru bak, benden yardım dile. Sana en doğru yolu bahşedeceğim.
+
+**Sarandiel**, [[Bekçi#Lûna|Bekçi inancındaki Lûna tasvirinin]] mezheplerindendir. Özellikle [[Kehram Çölü]] etrafında yaygındır. [[Rumi]], mehzebin öncülerinden sayılır. [[Aytaşı|Aytaşı'nın]], Lûna'nın parçalarından olduğunu düşünürler, ayrıca gümüşün de onun taşlaşmış gözyaşları olduğuna inanırlar. [[Lûna: Kum ve Ay]] kitabı kutsal öğretileridir.
+## Tarih
+[[Bekçi#Lûnayid Kilisesi|Lûnayid cemaati]], Antik çağlardan beri [[Kehram Çölü]] ve çevresine yağan [[Aytaşı|aytaşlarının]], Anne'nin onlara verdiği hediyeler olduğunu düşünür. Sarandiel mehzebinde yer alanlar ise bu taşların hediyeden ziyade O'nun birer parçası olduğuna inanır. Bu dini felsefe uzun yıllardır var olsa dahi, mevcut fikri kesin bir kalıba oturtan ilk kişi [[Rumi]] adında bir gezgin olmuştur. Gezgin-yazar Rumi, evine, Kehram Çölü'ne geri döndüğünde oranın her zaman farklı bir biçimde onu çektiğini yazar. Bir gün önüne düşen aytaşı, onu Anne'nin amaçlarını ve fikirlerini araştırmasına yol açar. Bu nedenle halihazırda fikir sahibi olduğu Sarandiel mehzebini detaylamasına bir şekilde araştırmak için -sonrasında [[Tal-Haib]] kölelerinin sembolü olacak [[Leresha'nın Sofrası]] grubuna katılır. Bu grupla çıktığı maceralarda yazdığı notlarında Sarandiel düşüncesi ile Lûna'nın ana tasvir ve fikrinin farklılıklarını ele alır. On yıllar süren araştırmalarından sonra gezi notlarından oluşan [[Lûna: Kum ve Ay]] kitabını ortaya çıkarır. Sarandiel'in takipçileri ise bu kitabın tanrı tarafından indirilmiş mukaddes yazılar olduğuna inanır.

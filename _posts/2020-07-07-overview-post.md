@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Example
+tags: Example
 desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque.
 ---
 

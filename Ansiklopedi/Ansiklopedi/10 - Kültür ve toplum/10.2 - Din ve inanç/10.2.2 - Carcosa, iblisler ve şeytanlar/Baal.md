@@ -1,0 +1,8 @@
+durum: #status/stub    
+tarih: 2022-11-28 | 03:45
+# Baal
+**Baal**(okunuşu: /**’beɪ.əl, ‘bɑː.əl**/) veya **Baʽal’dır**; halk tarafından cinayetlerin iblisi olarak bilinir. [[Carcosa Ordusu|Carcosa ordusunun]] komutanıdır. [[Carcosa#I. Kat: Araf|Araf’ta]] bulunan [[Kanlı Kale]] içerisinde yaşar. Baal’ın tasviri yıllar boyunca pek çok kez değişmiştir, fakat karşılaşılan iki ana formu vardır: Katil ve Yağmacı. Katil olan tasvirinde mefta bir erkek bedenine sahip olup oldukça yabani görünen bir suratı vardır. Derin yaralara sahip vücudunda siyah iltihaplı hastalıklar bulunur. Yağmacı tasvirinde ise ortalama bir insanın beş katı uzunluğunda bir canavardır. Oldukça rahatsız edici derecede çarpıtılmış bir yüzü olup, yelesi ve uzun sakalları vardır. Bir insan boyutunda boynuzları olup gözlerinden Carcosa’nın ateşleri püskürür.
+
+[[Fani Diyar|Dünya]] üzerinde pek çok piç çocuğu olduğuna dair efsaneler vardır. Bu çocuklara **Baaltohumu** adı verilmiştir. Rivayete göre bu tohumları, ergenliklerini tamamladıktan sonra eğer ki şehvet tuzağına düşerler ise, Baal’ın Yağmacı tasvirine dönüşebilme lanetine erişirler. Onun kadar güçlü olmasalar da, Carcosa’nın ruhu içlerinde bulunur.
+
+O, sadece gözüne kestirdiği kurbanları öldürmek ve ordusuna katmak için vardır. Fani ruhlara yıkımı ve ölümü aşılar. Gaddarlık, vahşet ve nefret onun karakterinin temelini oluşturur. Ritüel adına yapılan cinayetler ona bahşedilir, ve bu şekilde [[Fani Diyar|fani diyara]] adım atabilir.
