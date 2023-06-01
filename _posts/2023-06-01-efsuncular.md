@@ -1,0 +1,13 @@
+---
+layout: post
+categories: Toplum Mertebeler
+title: Efsuncular
+desc: Efsuncular, arkan sanatını özlerinde hisseden kişilerdir. Bilge büyücülerin başa koyduğu uzun yolculuğun aksine onlar bu mistik örgüye doğuştan bağlı olan kişilerdir.
+---
+
+# Efsuncular
+**Efsuncular**, arkan sanatını özlerinde hisseden kişilerdir. Bilge büyücülerin başa koyduğu uzun yolculuğun aksine onlar bu mistik örgüye doğuştan bağlı olan kişilerdir. Bu kudretin açığa çıkışı çalışkanlıktan ziyade duyguların yönelimi sayesinde gerçekleşir. Bu sebeple güçleri hayranlık uyandırırken aynı zamanda öngörülemez dengesizliği de beraberinde getirir.  Onlar arkan sanatının şairleridir, dizelerini kağıda döker gibi sihirlerini icra ederler. Büyülerini, akademik muadillerini zincirleyen aklın prangalarına tutsak düşmemiş şekilde, sadece tutkuyla ortaya çıkarırlar. Efsuncular, arkan sanatında “uzmanlık alanı“ olarak tabir edilen sınırlamalarından kaçınarak muazzam gelişimler gösterirler, ancak bu da onların sadece belli kısımlarda mekik dokuyabileceği anlamına gelir. 
+
+Güçleri çoğunlukla ergenliklerinin çalkantılı yıllarında, hem kendileri için hem de etrafında bulunanlar için ürkütücü gösteriler eşliğinde baş gösterir. Bu gösteriler geceleri hortlayan esrarengiz fısıltılardan varolmayan nesnelerin ortaya çıkması gibi çeşitli ilüzyonlara kadar değişir. Kendilerine dair bilgileri keşfetmeye başladıkça toplum içerisindeki rollerini kavramaya başlarlar, yeni keşfettikleri kaderlerini iyi veya kötü kucaklarlar. Nadiren birkaçı kendilerini hamiler tarafından himaye altına alınmış bulur, çoğu, filizlenmekte olan bu güçlerinin kızgın dalgaları tarafından kuşatılmış olduğunu çok geç farkeder. Ne yazık ki çoğu kişi için bu serüven; onlara bahşedilen bu armağandan irkilen akraba, kardeş ve arkadaşlar tarafından terk edilmeyle başlar. Bu sebeple çoğunun dostluk duygusu örselenmiş, taşıdıkları yalnızlık onların acı yoldaşı olmuştur.
+
+Efsuncuların ve Büyücülerin bir araya geldiği arkan sanatı aslında büyük de bir ayrılığı beraberinde getiriyor. Çatışan ideolojiler ve sözsüz rekabet sebebiyle iki kısım da birbirinden pek haz etmez. Efsuncular, irfanı geniş büyücüleri küçümserken aynı zamanda rekabetçi bir gözle de bakar. Onların bilgiye olan hürmet duygusunu, kendilerinin doğal olarak kavradıklarını anlamak için başarısız bir girişim olarak görürler. Büyücüler ise efsuncuların evcilleştirilmemiş hünerlerine mest olurken, aynı zamanda onlara tepeden bakarlar. Büyüyü efsuncular gibi pervasızca kullanmanın kötü sonuçlar doğurabileceğini ve daha hassas yaklaşmanın gerekli olduğunu savunurlar.

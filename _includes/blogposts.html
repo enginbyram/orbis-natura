@@ -8,7 +8,7 @@
             <div class="article_card">
                 <div class="card_info">
                     <div class="info_topinfos">
-                        <div class="info__date">{{ post.date | localize: "%A, %-d %b %Y" }}</div>
+                        <div class="info__date">{{ post.date | date: "%A, %-d %b %Y" }}</div>
                         <a href="{{ site.baseurl }}{{post.url}}" class="cardopen_button">
                             <i class="fa-sharp fa-solid fa-up-right-and-down-left-from-center fa-xs" style="color: #131313;"></i>                        </a>
                     </div>

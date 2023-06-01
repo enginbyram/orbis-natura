@@ -9,6 +9,6 @@ tarih: 2022-11-28 | 01:18
 ## Tasvir
 Onun, fanilerin arasında yüzlerce metrelik kanatsız, pullu bir yılanımsı varlık olarak belirdiği söylenir. Formunun büyüklüğü sebebiyle başkalarıyla iletişime geçemez, bu, aynı zamanda diğerlerine üstten baktığının da göstergesi olarak tasvir edilir. Bazen bu formda belirmek yerine yılanımsı formunu yakınlarda saklayarak [[_posts/2023-05-29-insan|insanların]] karşısına onlar gibi bir insan olarak çıkar, fakat ana formu olan yılan formu çok da uzaklarda yer almaz.
 
-[[Neheril|Neheril'den]] geriye kalan [[Artifak|artifakları]] aradığı da bazı kaynaklarda geçer. Neheril'e güçlü bir biat duygusu besler.
+[[Neheril|Neheril'den]] geriye kalan [[Ansiklopedi/Ansiklopedi/Artifak|artifakları]] aradığı da bazı kaynaklarda geçer. Neheril'e güçlü bir biat duygusu besler.
 
 Bedeninin asıl yerini diğer [[İblis|şeytanlardan]], insanlardan; herkesten ve her şeyden gizli tutar. Onun asıl şeklini görenlerin aynı gün içerisinde korkuyla öldüğü söylenir. Bu nedenle korkudan ölme durumuna “Asmodeus'u görmek” denir.
