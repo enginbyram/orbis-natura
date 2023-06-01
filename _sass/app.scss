@@ -538,6 +538,7 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
   width: max-content;
   padding: 0;
   display: flex;
+  cursor: pointer;
   
 
   li {
@@ -545,25 +546,25 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
     padding: 0px 7px;
     list-style: none;
     border-radius: 10px;
+}
 
-  }
-  #red_cat {
-    background-color: $redbg;
-    color: $red;
-    border-radius:10px;
-    font-weight: 600;
-  }
-  #green_cat {
-    background-color: $greenbg;
-    border-radius:10px;
-    color: $green;
-  }
+}
+#red_cat {
+  background-color: $redbg;
+  color: $red;
+  border-radius:10px;
+  font-weight: 600;
+}
+#green_cat {
+  background-color: $greenbg;
+  border-radius:10px;
+  color: $green;
+}
 
-  #blue_cat {
-    background-color: $bluebg;
-    border-radius:10px;
-    color: $blue;
-  }
+#blue_cat {
+  background-color: $bluebg;
+  border-radius:10px;
+  color: $blue;
 }
 
 // Footer section //

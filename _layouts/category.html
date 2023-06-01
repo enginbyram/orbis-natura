@@ -2,3 +2,8 @@
 layout: default
 ---
 
+{% for tag in site.tags.page_tags %}
+    {{tag.title}}
+{% endfor %}
+
+{{ content }}

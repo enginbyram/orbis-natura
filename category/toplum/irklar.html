@@ -1,24 +1,28 @@
+---
+layout: category
+title: Etnik gruplar
+---
+
+<h1>{{page.title}}</h1>
+
 <div class="blogpost_inner_container">
-    <div class="blogpost_header">
-        <h2>Son yazılar</h2>
-    </div>
     
     <div class="blogpost_container">
-        {% for post in site.posts %}
+        {% for post in site.categories.Irklar %}
             <div class="article_card">
                 <div class="card_info">
                     <div class="info_topinfos">
                         <div class="info__date">{{ post.date | localize: "%A, %-d %b %Y" }}</div>
                         <a href="{{ site.baseurl }}{{post.url}}" class="cardopen_button">
-                            <i class="fa-sharp fa-solid fa-up-right-and-down-left-from-center fa-xs" style="color: #131313;"></i>                        </a>
+                            <i class="fa-sharp fa-solid fa-up-right-and-down-left-from-center fa-xs" style="color: #131313;"></i></a>
                     </div>
                     <div class="info__title">{{ post.title }}</div>
                     <div class="info__desc">{{ post.desc }}</div>
                 </div>
                 <div class="card_categories_section">
                     <ul>
-                        {% for cat in post.categories %}
-                        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ cat }}</li>
+                        {% for tag in post.categories %}
+                        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ tag }}</li>
                         {% endfor %}
                         <!-- <li id="red_cat" class="category_pills">Fikir</li>
                         <li id="green_cat" class="category_pills" >Büyü</li>
@@ -31,6 +35,7 @@
     
     </div>
 </div>
+
 
 
 

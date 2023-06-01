@@ -6,8 +6,8 @@ layout: default
   <div class="post__date">{{ page.date | date: "%A, %-d %B %Y" }}</div>
   <div class="card_categories_section">
     <ul>
-      {% for tag in page.tags %}
-        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ tag }}</li>
+      {% for cat in page.categories %}
+        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ cat }}</li>
       {% endfor %}
     </ul>
 </div>

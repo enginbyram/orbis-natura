@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Orbis’in bölgeleri
-tags: Fikirler
+categories: Fikirler
 date: Monday,  1 May 2023
 desc: Aklıma gelen bölge fikirleri.
 ---
