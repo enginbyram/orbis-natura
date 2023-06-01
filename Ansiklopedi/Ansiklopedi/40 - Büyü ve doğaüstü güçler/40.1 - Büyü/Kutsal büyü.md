@@ -1,4 +1,0 @@
-durum: #status/legacy    
-tarih: 2022-11-13 | 17:26
-# Kutsal büyü
-Kutsal büyü, tanrılar veya mesihler tarafından [[Ruhban|ruhban]], [[Paladinler|paladin]], [[İzci|izci]] ve [[Druidler]] gibi sınıflara ait kişilere bahşedilir. Bu bahşedilme genellikle bir tür ilahi, dua veya tapınma gibi yollarla istenilir. Kullanıcının zanaate karşı hiçbir yeteneği var olmaz, ve tanrıları veya mesihleri tarafından direkt olarak kişinin zihnine yerleştirilir. Kutsal büyülerin kullanımı direkt veya indirekt olarak kullanıcının kendi inandığı şeye/kişiye ibadet etmesi anlamına gelebilir. Ancak kullanıcı, gücünü tanrısının veya mesihinin kabul gördüğü eylemler dışında veya karşıt gelen durumlar için kullanırsa, tanrısı veya mesihi tarafından bir daha asla güce sahip olamama gibi birtakım ağır cezalara çarptırılabilir.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82c3108b59e91a36",
+        "id": "1b92de33168d9742",
         "type": "tabs",
         "children": [
           {
-            "id": "2dd71c6749efed3a",
+            "id": "3ed6cba0265eb0ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-29-insan.md",
+                "file": "_posts/2023-05-28-buyu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-29-insan.md",
+                "file": "_posts/2023-05-28-buyu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-29-insan.md",
+                "file": "_posts/2023-05-28-buyu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-29-insan.md"
+                "file": "_posts/2023-05-28-buyu.md"
               }
             }
           }
@@ -146,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dd71c6749efed3a",
+  "active": "3ed6cba0265eb0ac",
   "lastOpenFiles": [
-    "_site/toplum/irklar/i̇nsanlar/insan.html",
-    "_site/toplum/irklar/i̇nsanlar",
-    "_site/toplum/irklar",
-    "_site/toplum",
-    "_site/insan.html",
-    "_site/Ansiklopedi/Ansiklopedi/30 - Coğrafya/30.4 - Yerleşim yerleri/30.4.1 - Metropolisler ve şehir-devletleri/Nefeos.md",
-    "_site/Ansiklopedi/Ansiklopedi/30 - Coğrafya/30.1 - Kıtalar/Aarthal.md",
-    "_posts/2023-05-29-orbisin-bölgeleri.md",
-    "_site/Ansiklopedi/Ansiklopedi/50 - Önemli kişiler/Valeraine Poltergeist.md",
-    "_site/Ansiklopedi/Ansiklopedi/50 - Önemli kişiler/Tonyuk Alghâran.md",
-    "_site/Ansiklopedi/Ansiklopedi/50 - Önemli kişiler/Therion.md",
-    "_site/Ansiklopedi/Ansiklopedi/50 - Önemli kişiler/Rumi.md",
-    "_site/Ansiklopedi/Ansiklopedi/50 - Önemli kişiler/Rhegar Fyregalion.md",
-    "_site/Ansiklopedi/Ansiklopedi/50 - Önemli kişiler/Halaster Mychwit.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.2 - Doğaüstü güçler/Soylar.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/İyileştirme.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Çağırma.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Yulaçıkaran.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Yelviçin.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Tahavvül.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Nekrokür.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Nakil.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Kutsal büyü.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Kreasyon.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Kehanet.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Himaye.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Evrensel.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Cezip.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Celp.md",
-    "_site/Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Büyü.md",
-    "_site/uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.html",
-    "_site/templates/page-template.html",
-    "_site/templates/blog-template.html",
-    "_site/templates",
-    "templates",
-    "_drafts"
+    "_drafts/2023-06-01-karabuyu.md",
+    "_drafts/2023-06-01-kanbuyusu.md",
+    "_posts/2023-05-28-buyu.md",
+    "_drafts/2023-06-01-kutsal-buyu.md",
+    "{{site.baseurl}}/kozmoloji/kavramlar/kutsal-buyu.md",
+    "_site/{{site.baseurl}}/kozmoloji/kavramlar/kutsal-buyu.md",
+    "_site/{{site.baseurl}}/kozmoloji/kavramlar/kutsal-buyu.html",
+    "_site/{{site.baseurl}}/kozmoloji/kavramlar",
+    "_site/{{site.baseurl}}/kozmoloji",
+    "_site/{{site.baseurl}}",
+    "{{site.baseurl}}/kozmoloji/kavramlar",
+    "{{site.baseurl}}/kozmoloji",
+    "{{site.baseurl}}",
+    "_drafts/2023-06-01-buyuculuk.md",
+    "_drafts/2023-06-01-arkan-sanati.md",
+    "_drafts/2023-06-01-simya.md",
+    "_drafts/2023-06-01-kantasi.md",
+    "_drafts/2023-06-01-runler.md",
+    "_drafts/2023-06-01-buyulu-esyalar.md",
+    "_drafts/2023-06-01-falcilar.md",
+    "_drafts/2023-06-01-efsuncular.md",
+    "_site/2023-06-01-golgekumasi.html",
+    "_drafts/2023-06-01-golgekumasi.md",
+    "_site/kozmoloji/kavramlar/arkan-sanati.html",
+    "_drafts/2023-06-01-buyukumasi.md",
+    "templates/linking-temp.md",
+    "_site/templates/linking-temp.md",
+    "_site/templates/linking-temp.html",
+    "_site/templates/Untitled.md",
+    "_drafts/2023-06-01-saf-enerji.md",
+    "templates/blog-template.md",
+    "_site/Ansiklopedi/Ansiklopedi/Artifak.md",
+    "Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.2 - Doğaüstü güçler/Soylar.md",
+    "Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Yulaçıkaran.md",
+    "Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Yelviçin.md",
+    "Ansiklopedi/Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.1 - Büyü/Tahavvül.md"
   ]
 }

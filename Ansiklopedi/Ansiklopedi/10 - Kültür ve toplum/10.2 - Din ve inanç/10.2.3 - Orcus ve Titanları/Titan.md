@@ -1,7 +1,7 @@
 durum: #status/stub     
 tarih: 2022-11-28 | 03:35
 # Titan
-**Titan** veya **Orcus'un Çocukları**, [[Neheril|Neheril'den]] geriye kalan [[Artifak|artifaklardan biri]] nedeniyle ortaya çıkmış doğaüstü varlıklardır. [[Büyü 1|Saf enerjiden]] oluşurlar.
+**Titan** veya **Orcus'un Çocukları**, [[Neheril|Neheril'den]] geriye kalan [[Ansiklopedi/Ansiklopedi/Artifak|artifaklardan biri]] nedeniyle ortaya çıkmış doğaüstü varlıklardır. [[Büyü 1|Saf enerjiden]] oluşurlar.
 ## Kişiler
 - [[Hestia]]: Açgözlülük, hırs ve oburluğuk onun zevklerindendir.
 - [[Aghos]]: Silah işçiliğinin, zanaatin ve zanaatkârların, ayrıca [[Duergar|Duergar'ların]] mesihidir.

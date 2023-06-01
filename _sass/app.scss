@@ -273,6 +273,18 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
 
 .post_wrapper {
   width: 700px;
+  
+  a {
+    text-decoration: none;
+    background-color: rgba(yellow, .25);
+    transition: background-color .5s ease;
+    border-radius: 5px;
+    color: $black1;
+    padding:0 3px;
+  }
+  a:hover {
+    background-color: rgba(yellow, 1);
+  }
 }
 
 // Sidebar CSS //
@@ -491,10 +503,14 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
   flex-wrap: wrap;
   
   .article_card {
+    margin: 15px 5px;
     width: 300px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    border:1px solid rgba($white2, 0);
+    transition: border .2s ease, background-color .2s ease;
+    border:1px solid rgba($white3, .45);
 
     padding: 0 10px;
 
@@ -506,7 +522,9 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
         align-items:flex-start;
 
         .cardopen_button {
-          padding: 20px 10px 10px 10px;
+          padding: 5px 12px;
+          border-bottom: 1px solid $white3;
+          border-left: 1px solid $white3;
         }
 
         .info__date {
@@ -527,11 +545,14 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
       .info__desc {
         padding-bottom:13px;
         font-size:13.5px;
-        text-align: justify;
         letter-spacing: -.4px;
         color: $black3;
       }
     }
+  }
+  .article_card:hover {
+    background-color: rgba($white2, .22);
+    border:1px solid rgba($white2, 1);
   }
 }
 .card_categories_section ul {
@@ -540,7 +561,6 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
   display: flex;
   cursor: pointer;
   
-
   li {
     font-size: 10.5px;
     padding: 0px 7px;
