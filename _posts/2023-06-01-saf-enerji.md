@@ -3,6 +3,8 @@ layout: post
 categories: Kozmoloji Kavramlar
 title: Saf enerji
 desc: Özünde ilkel kaosun zerreleri ve varoluşumuzun sözsüz ilkeleri barınırken; kendisi ise kozmosu saran anlaşılmaz gizemlerin gayet bir tanığıdır o.
+tags: Featured
+banner: "/assets/img/saf_enerji_bn.jpg"
 ---
 
 # Saf enerji
