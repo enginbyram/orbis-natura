@@ -5,5 +5,5 @@ title: PLACEHOLDER_TITLE
 desc: PLACEHOLDER_DESC
 ---
 
-# {{title}}
+# {{page.title}}
 <!-- ! ilk önce front-matter'ı düzenle ! -->
