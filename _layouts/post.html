@@ -7,7 +7,7 @@ layout: default
   <div class="card_categories_section">
     <ul>
       {% for cat in page.categories %}
-        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">Diğer yazılar</li>
+        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ cat }}</li>
       {% endfor %}
     </ul>
   </div>
