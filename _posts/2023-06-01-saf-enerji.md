@@ -1,13 +1,13 @@
 ---
 layout: post
 categories: Kozmoloji Kavramlar
-title: Saf enerji
+title: "Diyarın uhrevi özü: Saf enerji"
 desc: Özünde ilkel kaosun zerreleri ve varoluşumuzun sözsüz ilkeleri barınırken; kendisi ise kozmosu saran anlaşılmaz gizemlerin gayet bir tanığıdır o.
 tags: Featured
 banner: "/assets/img/saf_enerji_bn.jpg"
 ---
 
-# Saf enerji
+# {{page.title}}
 Diyarı çevreleyen **enerji**, veya **aura**, aynı zamanda **saf büyü** olarak da isimlendirilen; alemlerin uhrevi özüdür. Yaratılışın sırlarıyla dolu esrarengiz bir cazibeyle kaplıdır. Özünde ilkel kaosun zerreleri ve varoluşumuzun sözsüz ilkeleri barınırken; kendisi ise kozmosu saran anlaşılmaz gizemlerin gayet bir tanığı durumundadır. Bu omnipresent güç, zavallı bir çakıldan cenneti sarsan göksel devasamsılara kadar spektral aurasıyla alemlerin her köşesinde barınır, her nesnenin içerisinde bulunur. O, kendini sınırsız formlarda tezahür eder.
 
 Enerjinin katıksız büyüklüğü onu, fanilerin çok da kolay idrak edemeyeceği fırtınalı bir sel gibi gösterir. Onun güvenilmez doğası, evrenin temelini oluşturan gölgelenmiş gerçekleri çözümlemeyi, samimi ilişkiler kurmayı gerektirir. 

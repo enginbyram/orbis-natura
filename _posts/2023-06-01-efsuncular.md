@@ -1,11 +1,11 @@
 ---
 layout: post
 categories: Toplum Mertebeler
-title: Efsuncular
+title: Büyükumaşına doğuştan bağlı efsuncular
 desc: Efsuncular, arkan sanatını özlerinde hisseden kişilerdir. Bilge büyücülerin başa koyduğu uzun yolculuğun aksine onlar bu mistik örgüye doğuştan bağlı olan kişilerdir.
 ---
 
-# Efsuncular
+# {{page.title}}
 **Efsuncular**, arkan sanatını özlerinde hisseden kişilerdir. Bilge büyücülerin başa koyduğu uzun yolculuğun aksine onlar bu mistik örgüye doğuştan bağlı olan kişilerdir. Bu kudretin açığa çıkışı çalışkanlıktan ziyade duyguların yönelimi sayesinde gerçekleşir. Bu sebeple güçleri hayranlık uyandırırken aynı zamanda öngörülemez dengesizliği de beraberinde getirir.  Onlar arkan sanatının şairleridir, dizelerini kağıda döker gibi sihirlerini icra ederler. Büyülerini, akademik muadillerini zincirleyen aklın prangalarına tutsak düşmemiş şekilde, sadece tutkuyla ortaya çıkarırlar. Efsuncular, arkan sanatında “uzmanlık alanı“ olarak tabir edilen sınırlamalarından kaçınarak muazzam gelişimler gösterirler, ancak bu da onların sadece belli kısımlarda mekik dokuyabileceği anlamına gelir. 
 
 Güçleri çoğunlukla ergenliklerinin çalkantılı yıllarında, hem kendileri için hem de etrafında bulunanlar için ürkütücü gösteriler eşliğinde baş gösterir. Bu gösteriler geceleri hortlayan esrarengiz fısıltılardan varolmayan nesnelerin ortaya çıkması gibi çeşitli ilüzyonlara kadar değişir. Kendilerine dair bilgileri keşfetmeye başladıkça toplum içerisindeki rollerini kavramaya başlarlar, yeni keşfettikleri kaderlerini iyi veya kötü kucaklarlar. Nadiren birkaçı kendilerini hamiler tarafından himaye altına alınmış bulur, çoğu, filizlenmekte olan bu güçlerinin kızgın dalgaları tarafından kuşatılmış olduğunu çok geç farkeder. Ne yazık ki çoğu kişi için bu serüven; onlara bahşedilen bu armağandan irkilen akraba, kardeş ve arkadaşlar tarafından terk edilmeyle başlar. Bu sebeple çoğunun dostluk duygusu örselenmiş, taşıdıkları yalnızlık onların acı yoldaşı olmuştur.

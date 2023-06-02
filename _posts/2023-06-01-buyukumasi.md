@@ -1,11 +1,11 @@
 ---
 layout: post
 categories: Kozmoloji Kavramlar
-title: Büyükumaşı
+title: "Arkan sanatın temeli: Büyükumaşı"
 desc: Büyükumaşı veya sadece kumaş; arkan sanatını icra edenler tarafından pek farklı şekillerde anlatılır. Bazı kimseler onu sihirle dokunmuş bir "kumaş" olarak görür. Bilesiniz ki! Büyükumaşının kendi başına bir "sihir" değildir.
 ---
 
-# Büyükumaşı
+# {{page.title}}
 **Büyükumaşı** veya sadece **kumaş**; arkan sanatını icra edenler tarafından pek farklı şekillerde anlatılır: Bazı kimseler onu sihirle dokunmuş bir "kumaş" olarak görür. Bilesiniz ki! Büyükumaşının kendi başına bir "sihir" değildir. O, kaosun ta kendisi saf enerjinin dizginlendiği, içinden sakin bir akarsu edasıyla akabileceği bir kanal, veyahut sihirbazlığın sırlarının korkusuzca gözlemlenebildiği bir ağlar silsilesidir. Büyükumaşı’nı kullanmak, arkan sanatının sır perdesini aralayacak anahtarı gerektirir. Bu anahtara sahip olmak da Büyükumaşı’nın nasıl işlediğini kavramaktan geçer. Kumaş ise arkan sanatının, yani dizginlenmiş enerji sanatının gizemini çözmek için bir geçit, veyahutta yol görevi görür.
 
 Büyükumaşı’nın görünmeyen aleminde, saygıyla anılan büyücü üçlüsüne —yani Başmecusîler’e, kutsal bir görev düşer: Kumaş’ın muhafızları olmak. Onların arkan sanatındaki ustalıkları, hem eski çağlarda hem de şimdiki zamanda tekerrür etmemiş bir ustalıktır. Onların dünyevi hissiyatları zamanla birlikle yitirilmiş olsa da, muhterem Başmecusîler’in ruhani özleri hala var olmaya devam eder. Başmecusî olmak, büyü irfanının doruk noktasını temsil eder; bu konum ise yalnızca bir selefinin yok oluşu gibi ender durumlarda verilen bir onurdur —tarihin tozlu sayfalarında ise nadiren gerçekleşmiş bir olaydır.

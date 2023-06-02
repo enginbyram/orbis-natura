@@ -1,11 +1,11 @@
 ---
 layout: post
 categories: Kozmoloji Kavramlar
-title: Büyülü Eşyalar
+title: Büyülü eşyalar nelerdir?
 desc: Çoğunlukla başbüyücüler, cadılar veya direkt güçlü antik varlıklar tarafından yaratılan bu eşyalar **yadigâr** veya **artifaklar** olarak bilinir.
 ---
 
-# Büyülü eşyalar
+# {{page.title}}
 Hem arkan hem de ilahi enerjiler eşyaların içine işlenebilir. Çoğunlukla başbüyücüler, cadılar veya direkt güçlü antik varlıklar tarafından yaratılan bu eşyalar **yadigâr** veya **artifaklar** olarak bilinir. Büyülü eşyaların çoğu Büyükumaşı’na bağlı olup kumaştan gücünü çekerken bazılarının içerisinde direkt saf enerji bulunur, bu eşyalar Büyükumaşı’na bağlı değildir.
 
 Büyülü eşyayı yaratmanın pek çok farklı yolu olsa da, üretim süreci genellikle aşağıda listelenen adımları takip eder:

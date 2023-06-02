@@ -1,13 +1,13 @@
 ---
 layout: post
 categories: Kozmoloji Kavramlar
-title: Arkan sanatı
+title: Arkan sanatı nedir ve ne şekillerde kullanılır?
 desc: Kaosun ta kendisi olarak tabir edebileceğimiz enerjinin dizginlenmiş halidir.
 tags: Featured
 banner: "/assets/img/arkan_sanati_bn.jpg"
 ---
 
-# Arkan sanatı
+# {{page.title}}
 **Arkan büyüleri**, büyü aleminin pek cazibeli bir tarafıdır. Bu sanatı icra edenler, diyarın içinde bulunan enerjinin kanalize edilmiş halini kullananlardır. Bu esrarengiz dünyada ilerleyenlere, kendi dallarına göre farklı adlar takılsa da, genellikle "büyücü" denir.
 
 Arkan büyüsü, aynı zamanda bir "sanat" olarak da hitap edilir ki, "farklı" bir enerji türü değildir. Kaosun ta kendisi olarak tabir edebileceğimiz enerjinin dizginlenmiş halidir.  Kökeni, bilinmeyen eller tarafından örülmüş Büyükumaşı’dır. Eski sözler, el hareketleri ve çeşitli objeler ile gereken adımları kusursuz bir şekilde taklit etmek büyükumaşını, ve bu sayede gerçekliği istenilen şekilde manipüle etmeye yarar.

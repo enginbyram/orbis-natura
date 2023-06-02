@@ -1,7 +1,7 @@
 durum: #status/developing   
 tarih: 2022-11-26 | 03:19
 # Ay Kapısı
-**Ay Kapısı**, [[Lïn]] tarafından gözetlenen, [[Gökdiyar|Gökdiyar'da]] bulunan önemli bir yapıdır. [[Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.2 - Asil soylar/Endel|Endellerin]] tekrar reenkarne olmaları için içinden geçtikleri, [[_posts/2023-05-29-insan|insanların]] ise tanrılar ile sonsuza dek yaşamalarını sağlayan geçit kapısıdır. [[Lûna]] tarafından inşa edilmiştir. [[Endel Nehri]] üzerinde bulunur.
+**Ay Kapısı**, [[Lïn]] tarafından gözetlenen, [[Gökdiyar|Gökdiyar'da]] bulunan önemli bir yapıdır. [[Ansiklopedi/40 - Büyü ve doğaüstü güçler/40.2 - Asil soylar/Endel|Endellerin]] tekrar reenkarne olmaları için içinden geçtikleri, [[_drafts/2023-05-29-insan|insanların]] ise tanrılar ile sonsuza dek yaşamalarını sağlayan geçit kapısıdır. [[Lûna]] tarafından inşa edilmiştir. [[Endel Nehri]] üzerinde bulunur.
 ## Tasvir
 > Doğru, sadece ayışığı altında gerçektir.
 > *- [[Lilleth Montegri]]*

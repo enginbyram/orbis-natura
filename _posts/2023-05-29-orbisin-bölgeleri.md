@@ -2,11 +2,10 @@
 layout: post
 title: Orbis’in bölgeleri
 categories: Fikirler
-date: Monday,  1 May 2023
 desc: Aklıma gelen bölge fikirleri.
 ---
 
-# Orbis’in bölgeleri
+# {{page.title}}
 
 Aklıma gelen bölge fikirleri arasında:
 

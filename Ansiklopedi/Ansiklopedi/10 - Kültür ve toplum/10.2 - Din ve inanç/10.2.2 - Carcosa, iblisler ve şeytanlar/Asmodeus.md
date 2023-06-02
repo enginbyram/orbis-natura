@@ -7,7 +7,7 @@ tarih: 2022-11-28 | 01:18
 
 **Asmodeus**, veya **Sapkın Lord**, **Günahların Tanrısı**; sapkınlıkların ve özellikle şehvetin kötü tanrısıdır. Nüfuzlu [[İblis|iblis]] prenslerinden olup, baskının ve gücün yöneticisi, aynı zamanda [[Carcosa#Şehvet Katı|Carcosa’nın ikinci katının]] lordudur.
 ## Tasvir
-Onun, fanilerin arasında yüzlerce metrelik kanatsız, pullu bir yılanımsı varlık olarak belirdiği söylenir. Formunun büyüklüğü sebebiyle başkalarıyla iletişime geçemez, bu, aynı zamanda diğerlerine üstten baktığının da göstergesi olarak tasvir edilir. Bazen bu formda belirmek yerine yılanımsı formunu yakınlarda saklayarak [[_posts/2023-05-29-insan|insanların]] karşısına onlar gibi bir insan olarak çıkar, fakat ana formu olan yılan formu çok da uzaklarda yer almaz.
+Onun, fanilerin arasında yüzlerce metrelik kanatsız, pullu bir yılanımsı varlık olarak belirdiği söylenir. Formunun büyüklüğü sebebiyle başkalarıyla iletişime geçemez, bu, aynı zamanda diğerlerine üstten baktığının da göstergesi olarak tasvir edilir. Bazen bu formda belirmek yerine yılanımsı formunu yakınlarda saklayarak [[_drafts/2023-05-29-insan|insanların]] karşısına onlar gibi bir insan olarak çıkar, fakat ana formu olan yılan formu çok da uzaklarda yer almaz.
 
 [[Neheril|Neheril'den]] geriye kalan [[Ansiklopedi/Ansiklopedi/Artifak|artifakları]] aradığı da bazı kaynaklarda geçer. Neheril'e güçlü bir biat duygusu besler.
 

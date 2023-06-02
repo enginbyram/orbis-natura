@@ -1,11 +1,11 @@
 ---
 layout: post
 categories: Kozmoloji Kavramlar
-title: Gölgekumaşı
+title: Gölgekumaşı nedir?
 desc: Gölgekumaşı; Büyükumaşı ile tam bir uyum içinde, ancak sinsi bir hayalet gibi kumaşın iplikleri arasında var olan yozlaşmış bir güçtür.  Büyükumaşına “beyaz” denilirse o da “siyahtır”.
 ---
 
-# Gölgekumaşı
+# {{page.title}}
 **Gölgekumaşı**; Büyükumaşı ile tam bir uyum içinde, ancak sinsi bir hayalet gibi kumaşın iplikleri arasında var olan yozlaşmış bir güçtür.  Büyükumaşına “beyaz” denilirse o da “siyahtır”; eğer Büyükumaşı “her şey” ise, Gölgekumaşı “hiçliktir”. O, varolan enerjinin negatif aynasıdır.
 
 Gölgekumaşı’nın esrarı, pek çok insan tarafından rahatsız edici ve tehlikeli denilebilecek bilgiyi kendi ipliklerinde bulundurur. Ona ilgi duyanları fısıltılar ile tuzağına çeker. Onun tehlikeli gücünden yararlanmak için büyücüler Mürver Olanlar ile anlaşmalar yapmalı ya da onlara biat etmelidir ve bu süreçte kendi akıl sağlıklarının bir parçasını feda etmelidir.
