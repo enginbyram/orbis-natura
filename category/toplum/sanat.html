@@ -1,40 +1,11 @@
 ---
 layout: category
 title: Sanat
+cat_name: Sanat
 ---
 
-<h1>{{page.title}}</h1>
+{% include category_filler.html %}
 
-<div class="blogpost_inner_container">
-    
-    <div class="blogpost_container">
-        {% for post in site.categories.Sanat %}
-            <div class="article_card">
-                <div class="card_info">
-                    <div class="info_topinfos">
-                        <div class="info__date">{{ post.date | localize: "%A, %-d %b %Y" }}</div>
-                        <a href="{{ site.baseurl }}{{post.url}}" class="cardopen_button">
-                            <i class="fa-sharp fa-solid fa-up-right-and-down-left-from-center fa-xs" style="color: #131313;"></i>                        </a>
-                    </div>s
-                    <div class="info__title">{{ post.title }}</div>
-                    <div class="info__desc">{{ post.desc }}</div>
-                </div>
-                <div class="card_categories_section">
-                    <ul>
-                        {% for tag in post.categories %}
-                        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ tag }}</li>
-                        {% endfor %}
-                        <!-- <li id="red_cat" class="category_pills">Fikir</li>
-                        <li id="green_cat" class="category_pills" >Büyü</li>
-                        <li id="blue_cat" class="category_pills">Tarih</li> -->
-                    </ul>
-                </div>
-            </div>
-
-        {% endfor %}
-    
-    </div>
-</div>
 
 
 
