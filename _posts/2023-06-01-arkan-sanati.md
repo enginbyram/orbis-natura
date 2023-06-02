@@ -3,6 +3,8 @@ layout: post
 categories: Kozmoloji Kavramlar
 title: Arkan sanatı
 desc: Kaosun ta kendisi olarak tabir edebileceğimiz enerjinin dizginlenmiş halidir.
+tags: Featured
+banner: "/assets/img/arkan_sanati_bn.jpg"
 ---
 
 # Arkan sanatı
