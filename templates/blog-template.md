@@ -1,4 +1,5 @@
 ---
+banner: ""
 layout: post
 categories: PLACEHOLDER_TAGS
 title: PLACEHOLDER_TITLE

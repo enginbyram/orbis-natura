@@ -23,6 +23,7 @@ $purplebg: #F9F5FF;
 
 $blue: #3538CD;
 $bluebg: #EEF4FF;
+$bluehover: #d2e2ff;
 
 $red: #C11574;
 $redbg: #FDF2FA;
@@ -221,6 +222,17 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
     text-align: justify;
   }
 
+  p:first-of-type {
+    text-indent: 0;
+  }
+
+  p:first-of-type:first-letter {
+    font-size: 75px;
+    line-height: 59px;
+    float: left;
+    font-weight: 600;
+  }
+
   b, strong {
     font-weight: 700;
   }
@@ -287,6 +299,17 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
     text-transform: uppercase;
     letter-spacing: 8px;
   }
+
+  blockquote, q {
+    quotes: none;
+    font-size: 1em;
+    padding: 10px;
+    text-align: center;
+    background-color: #ebebeb;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-variant: all-petite-caps;
+  }
 }
 
 .post_wrapper {
@@ -298,14 +321,14 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
   
   a {
     text-decoration: none;
-    background-color: rgba(yellow, .25);
-    transition: background-color .5s ease;
-    border-radius: 5px;
-    color: $black1;
-    padding:0 3px;
+    color: $blue;
+    background-color: $bluebg;
+    border-radius: 10px;
+    padding: 2px 5px;
+    transition: background-color .2s ease;
   }
   a:hover {
-    background-color: rgba(yellow, 1);
+    background-color: $bluehover;
   }
 }
 

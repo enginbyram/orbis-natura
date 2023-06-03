@@ -19,6 +19,6 @@ Tal-Haib, antik tarihi boyunca geniş çeşitlilikte liderler tarafından yönet
 ### Ordu
 Tal-Haib'in güvenlik kolları [[Memşeyh|memşeyhlerdir]]. Bu muhafızların görevi, yasalara uymayan herkesi tutuklamak ve şüphelileri sorgulamaktır. Tipik bir memşî, pala tutar ve deri zırh giyer. Zengin büyü kültürü nedeniyle aralarında [[Büyücü|büyücü]] görmek normaldir.
 ### Adalet
-Şehir adalet organını [[Bekçi#Meda|Meda Kilisesi]] ve onların hakimlerinden sağlar. İki seviyeli yasama sistemi vardır: Vezirlerin yargılama bölgesi bütün vesayetleri kapsar, ve [[Sulh hakimi|sulh hakimleri]] ise sabbanların içine çalışırdı. Her mahkeme binasında en az 1 tane rahibi bulunur.
+Şehir adalet organını [[_posts/2023-06-02-bekci#Meda|Meda Kilisesi]] ve onların hakimlerinden sağlar. İki seviyeli yasama sistemi vardır: Vezirlerin yargılama bölgesi bütün vesayetleri kapsar, ve [[Sulh hakimi|sulh hakimleri]] ise sabbanların içine çalışırdı. Her mahkeme binasında en az 1 tane rahibi bulunur.
 ## Ticaret
 Tal-Haib'de, istediği şeyi arayan kimseler eğer yeterli miktarda paraları varsa her şeyi bulabilirler. Bölgenin -ve hatta [[Aarthal|Aarthal'ın]] önemli ticaret noktalarından biri durumunda olduğu üzere, ticaret kapasitesi oldukça geniştir. Kara market oldukça canlıdır ve [[Memşeyh|memşeyhler]] ise çoğunlukla bunu görmemezlikten gelmeye çalışırlar, kişinin yeteri kadar parası varsa.

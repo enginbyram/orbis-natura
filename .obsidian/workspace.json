@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-02-tasdili.md",
+                "file": "_posts/2023-06-02-sarandiel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-02-tasdili.md",
+                "file": "_posts/2023-06-02-sarandiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-02-tasdili.md",
+                "file": "_posts/2023-06-02-sarandiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-02-tasdili.md"
+                "file": "_posts/2023-06-02-sarandiel.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "3ed6cba0265eb0ac",
   "lastOpenFiles": [
-    "_posts/2023-06-02-cucesehirleri.md",
+    "_posts/2023-06-02-sarandiel.md",
+    "Ansiklopedi/Ansiklopedi/10 - Kültür ve toplum/10.3 - Sanat/10.3.1 - Metinler, kitaplar ve yazılar/Fablas in terra Aarthal et homus et alys.md",
+    "_posts/2023-06-02-aglayan-kadin.md",
+    "templates/blog-template.md",
+    "_posts/2023-06-02-bekci.md",
+    "_site/assets/img/bekci_bn.jpg",
+    "assets/img/bekci_bn.jpg",
+    "assets/img/bekci_bn.jpg.crdownload",
+    "_site/toplum/din/bekci.html",
+    "_site/toplum/din",
+    "_site/2023-06-02-bekci.html",
     "_posts/2023-06-02-tasdili.md",
+    "_posts/2023-06-02-cucesehirleri.md",
     "_posts/2023-06-01-simya.md",
     "_posts/2023-06-01-saf-enerji.md",
     "_posts/2023-06-01-runler.md",
@@ -169,20 +180,11 @@
     "_drafts/2023-05-29-insan.md",
     "_drafts/2023-05-26-tarih.md",
     "README.md",
-    "_posts/2023-05-26-tarih.md",
-    "{{site.baseurl}}/toplum/irklar/aksemsah.md",
     "{{site.baseurl}}/toplum/irklar",
     "{{site.baseurl}}/toplum",
     "{{site.baseurl}}",
-    "templates/blog-template.md",
-    "_drafts/2023-06-01-karabuyu.md",
-    "_drafts/2023-06-01-kanbuyusu.md",
     "_site/{{site.baseurl}}/kozmoloji/kavramlar/kutsal-buyu.html",
     "_site/{{site.baseurl}}/kozmoloji/kavramlar",
-    "_site/{{site.baseurl}}/kozmoloji",
-    "_site/{{site.baseurl}}",
-    "{{site.baseurl}}/kozmoloji/kavramlar",
-    "{{site.baseurl}}/kozmoloji",
-    "_site/2023-06-01-golgekumasi.html"
+    "_site/{{site.baseurl}}/kozmoloji"
   ]
 }
