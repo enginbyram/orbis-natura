@@ -222,17 +222,6 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
     text-align: justify;
   }
 
-  p:first-of-type {
-    text-indent: 0;
-  }
-
-  p:first-of-type:first-letter {
-    font-size: 75px;
-    line-height: 59px;
-    float: left;
-    font-weight: 600;
-  }
-
   b, strong {
     font-weight: 700;
   }
@@ -561,6 +550,15 @@ a[href="https://enginbyram.github.io/orbis-natura/"] .table-of-content {
     width:400px;
   }
 
+}
+
+.blogpost_container#home {
+  justify-content: center;
+  border: 1px solid $black4;
+
+  a {
+    width: 1100px;
+  }
 }
 
 .blogpost_container {

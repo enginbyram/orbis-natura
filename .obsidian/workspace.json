@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-02-sarandiel.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-02-sarandiel.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-02-sarandiel.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-02-sarandiel.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ed6cba0265eb0ac",
+  "active": "7d075ec28e9bbdf1",
   "lastOpenFiles": [
+    "_posts/2023-05-22-cuceler.md",
+    "index.md",
+    "_posts/2023-06-02-tasdili.md",
     "_posts/2023-06-02-sarandiel.md",
     "Ansiklopedi/Ansiklopedi/10 - Kültür ve toplum/10.3 - Sanat/10.3.1 - Metinler, kitaplar ve yazılar/Fablas in terra Aarthal et homus et alys.md",
     "_posts/2023-06-02-aglayan-kadin.md",
@@ -159,7 +162,6 @@
     "_site/toplum/din/bekci.html",
     "_site/toplum/din",
     "_site/2023-06-02-bekci.html",
-    "_posts/2023-06-02-tasdili.md",
     "_posts/2023-06-02-cucesehirleri.md",
     "_posts/2023-06-01-simya.md",
     "_posts/2023-06-01-saf-enerji.md",
@@ -176,10 +178,8 @@
     "_posts/2023-05-29-orbisin-bölgeleri.md",
     "_posts/2023-05-28-buyu.md",
     "_posts/2023-05-23-uzayda-alınabilecek-en-kötü-cevap-ne-olurdu.md",
-    "_posts/2023-05-22-cuce.md",
     "_drafts/2023-05-29-insan.md",
     "_drafts/2023-05-26-tarih.md",
-    "README.md",
     "{{site.baseurl}}/toplum/irklar",
     "{{site.baseurl}}/toplum",
     "{{site.baseurl}}",
