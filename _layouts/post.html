@@ -2,29 +2,16 @@
 layout: default
 ---
 
-<div class="post_front-matter">
-  <div class="post__date">{{ page.date | date: "%A, %-d %B %Y" }}</div>
-  <div class="card_categories_section">
-    <ul>
+<div class="post_container">
+  <div class="post_front-matter">
+    <div class="post__date">{{ page.date | date: "%A, %-d %B %Y" }}</div>
+    <div class="card_categories_section">
       {% for cat in page.categories %}
-        <li id="{% cycle 'red_cat', 'green_cat', 'blue_cat' %}" class="category_pills">{{ cat }}</li>
+        <li class="category_pills">{{ cat }}</li>
       {% endfor %}
-    </ul>
+    </div>
+  </div>
+  <div class="post_wrapper">
+    {{ content }}
   </div>
 </div>
-{% if page.banner != "" %}
-  <div class="post_banner__centering">
-    <img class="post_banner" src="{{site.baseurl}}{{page.banner}}" alt="">
-  </div>
-{% endif %}
-<div class="post_wrapper">
-  {{ content }}
-</div>
-
-
-{% include post_cat_recommend.html %}
-
-
-
-
-

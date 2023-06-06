@@ -1,32 +1,25 @@
 ---
 layout: default
 ---
+<ul class="all_cats">
+    <li id="sec_header_li">Öne çıkanlar</li>
+    {% for post in site.tags.Featured limit:4 %}
+        <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}} ({{post.date | date: "%m-%d-%Y" }})</a></li>
+    {% endfor %}
+</ul>
 
+<ul class="all_cats">
+    <li id="sec_header_li">Tüm makaleler</li>
+    {% for post in site.posts limit:3 %}
+        <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}} ({{post.date | date: "%m-%d-%Y"}})</a></li>
+    {% endfor %}
+</ul>
 
-
-<div class="blogposts_wrapper" id="home">
-    <div class="blogpost_inner_container" id="home">
-        <div class="blogpost_container" id="home">
-            <a href="{{site.baseurl}}/hosgeldiniz">
-                <div class="article_card" id="home">
-                    <div class="card_info" id="home">
-                        <div class="info__title" id="home">Orbis diyarına hoşgeldiniz</div>
-                        <div class="info__desc" id="home">İmkansızın gerçeğe dönüştüğü ve bilinmeyenin gözlerinizin önünde ortaya çıktığı bir maceraya atılın.</div>
-                    </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-
-
-
-
-
-
+<ul class="all_cats">
+    <li id="sec_header_li">Fikirler</li>
+    {% for post in site.categories.Fikirler limit:3 %}
+        <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}} ({{post.date | date: "%m-%d-%Y" }})</a></li>
+    {% endfor %}
+</ul>
 
 {{ content }}
-
-<!-- Blog posts are here -->
-{% include featured_article.html %}
-{% include blogposts.html %}

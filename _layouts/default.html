@@ -2,32 +2,9 @@
 <html lang="{{ page.lang | default: "tr" }}">
   {%- include head.html -%}
   <body>
+    {% include topbar.html %}
     <main class="main_wrapper">
-      <!-- Topbar here -->
-      <div class="topbar_wrapper">
-        {%- include topbar.html -%}
-      </div>
-      <div class="mainport_wrapper">
-        <!-- Main Viewport here -->
-        <article class="mainport_container">
-
-          <!-- Sidebar here -->
-          {% include sidebar.html %}
-          <div class="sidebar_button">
-            <i class="fa-solid fa-caret-left" style="color: #131313;"></i>
-          </div>
-
-          <div class="contentbox collapsed">
-            {{ content }}
-
-            
-          </div>
-        </article>
-
-      </div>
+      {{ content }}
     </main>
-    
-    <!-- Footer here -->
-    {%- include footer.html -%}
   </body>
 </html>

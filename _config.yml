@@ -14,10 +14,3 @@ plugins:
 
 sass:
   style: compressed
-
-date_locale: tr
-
-collections:
-  category:
-    output: true
-    tags: true
